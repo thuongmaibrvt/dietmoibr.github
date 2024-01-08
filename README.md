@@ -4,10 +4,10 @@
 <table style="width: 100%;">
 <tr>
 	<td style="width: 50%;">
-		<a href="https://www.pinterest.com/moiphuongnam/" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/logo.png" width="100%;" alt="diet moi br"/></a>
+		<a href="https://www.pinterest.com/moiphuongnam/" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-github.png" width="100%;" alt="diet moi br"/></a>
 	</td>
 	<td style="width: 50%;">
-		<a href="https://www.youtube.com/@dietmoigianvungtau4923" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/logo.png" width="100%;" alt="diet moi br"/></a>
+		<a href="https://www.youtube.com/@dietmoigianvungtau4923" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-github.png" width="100%;" alt="diet moi br"/></a>
 	</td>
 </tr>
 </table>

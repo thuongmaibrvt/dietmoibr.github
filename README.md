@@ -19,7 +19,7 @@
 	<span style="margin-left: 10%;">Ứng dụng bing : <span property="name">github business</span></span><br>
 	<span style="margin-left: 10%;">Giá trị quảng cáo <span property="offers" typeof="Offer"><span property="price">3.47</span><span property="priceCurrency">USD</span></span> : <span property="aggregateRating" typeof="AggregateRating"><span property="ratingValue">5</span>/<span property="ratingCount">5</span></span></span><br>
 	<span style="margin-left: 10%;">Phát triển hđh : <span property="operatingSystem">linux</span> và <span property="operatingSystem">windows</span></span><br>
-	<span style="margin-left: 10%;">Doanh nghiệp : <span property="applicationCategory" content="BusinessApplication">business</span> <span property="applicationCategory" content="DeveloperApplication">developers</span></span>
+	<span style="margin-left: 10%;">Nghiệp vụ : <span property="applicationCategory" content="BusinessApplication">business</span> <span property="applicationCategory" content="DeveloperApplication">developer</span></span>
 </div>
 <br><p>Phương nam brvt (<span property="author" typeof="Person">giám đốc công ty ông <span property="name">Vũ Văn Tiến</span></span>) diệt mối gián ruồi muỗi chuột bọ côn trùng với giải pháp hóa sinh được đánh giá an toàn <span property="reviewRating" typeof="Rating"><span property="ratingValue">5</span>/5</span> chuyên nghiệp sau 30 phút gọi.</p>
 </div>

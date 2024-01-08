@@ -26,7 +26,7 @@
 
 <br>
 
-## br: diệt mối giá rẻ
+## diệt mối giá rẻ
 <div vocab="https://schema.org" typeof="ItemList"><table style="width: 100%;">
 <tr>
 	<td style="width: 50%;">

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html version="HTML+RDFa 1.1" lang="vi" prefix="og: https://ogp.me/ns# video: https://ogp.me/ns/video#">
+<html version="HTML+RDFa 1.1" lang="en" prefix="og: https://ogp.me/ns# video: https://ogp.me/ns/video#">
     <head>
         <!--=============== basic ===============-->
         <meta charset="UTF-8">
@@ -13,17 +13,10 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 
 	<script type="application/ld+json">
-	{"@context": "https://schema.org", "@type": "LocalBusiness", "name": "Diệt mối tận gốc", "priceRange": "$$", "telephone": "+84 915 550 788", "email": "dietmoigianvungtau@gmail.com", "url": "https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/",
+	{"@context": "https://schema.org", "@type": "LocalBusiness", "name": "Diệt mối tận gốc", "priceRange": "$$", "telephone": "+84 915 550 788", "email": "dietmoigianvungtau@gmail.com", "url": "https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-goc.html",
 		"image": "https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg", "logo": "https://thuongmaibrvt.github.io/dietmoibr.github/image/logo-phuong-nam.png",
 		"address": {"@type": "PostalAddress", "streetAddress": "111E Võ Thị Sáu", "addressLocality": "Bà Rịa", "addressRegion": "Bà Rịa - Vũng Tàu", "postalCode": "790000", "addressCountry": "VN"},
-		"contactPoint": {"@type": "ContactPoint", "telephone": "+84 915 550 788", "contactType": "Customer Support", "areaServed": "VN", "availableLanguage": "Vietnamese"},
-		"areaServed": [
-			{"@type": "Place", "geo": {"@type": "GeoCircle", "geoMidpoint": {"@type": "GeoCoordinates", "latitude": "10.508569", "longitude": "107.179637"}}},
-			{"@type": "Place", "geo": {"@type": "GeoCircle", "geoMidpoint": {"@type": "GeoCoordinates", "latitude": "10.4033386", "longitude": "107.1230507"}}},
-			{"@type": "Place", "geo": {"@type": "GeoCircle", "geoMidpoint": {"@type": "GeoCoordinates", "latitude": "10.4836539", "longitude": "107.2113169"}}},
-			{"@type": "Place", "geo": {"@type": "GeoCircle", "geoMidpoint": {"@type": "GeoCoordinates", "latitude": "10.6321334", "longitude": "107.4614455"}}},
-			{"@type": "Place", "geo": {"@type": "GeoCircle", "geoMidpoint": {"@type": "GeoCoordinates", "latitude": "10.5756544", "longitude": "107.047374"}}}
-		]
+		"contactPoint": {"@type": "ContactPoint", "telephone": "+84 915 550 788", "contactType": "Customer Support", "areaServed": "VN", "availableLanguage": "Vietnamese"}
 	}
 	</script>
 
@@ -99,7 +92,7 @@
                 <!-- header opt -->
                 <a href="tel:+84915550788" class="add-list color-bg" title="Diệt mối tận gốc">Gọi điện <span><i class="fal fa-phone"></i></span></a>
                 <div class="cart-btn show-header-modal" data-microtip-position="bottom" role="tooltip" aria-label="Diệt mối"><i class="fal fa-heart"></i><span class="cart-counter green-bg"></span></div>
-                <div class="show-reg-form modal-open avatar-img" data-srcav="image/avatar.jpg"><i class="fal fa-podcast"></i>Podcast</div>
+                <div style="margin-top: 1px;" class="show-reg-form avatar-img"><i class="fal fa-podcast"></i><a style="color: #fff;" href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9raWVtc29hdG1vaXBodW9uZ25hbQ" class="facebook-log" title="Diệt mối tận gốc" target="_blank">Podcast</a></div>
                 <!-- header opt end-->
 
                 <!-- lang-wrap-->
@@ -257,7 +250,7 @@
             <!-- wrapper end-->
 
 
-            <footer class="main-footer fl-wrap" id="phuongnamblog">
+            <footer class="main-footer fl-wrap" id="dietmoibrgithub">
                 <!-- footer-header -->
                 <div class="footer-header fl-wrap grad ient-dark">
                     <div class="container">
@@ -289,10 +282,26 @@
                     <div class="container">
                         <div class="row">
                             <!-- footer-widget-->
-                            <div class="col-md-4">
+                            <div class="col-md-4" xmlns:rdf="//www.w3.org/1999/02/22-rdf-syntax-ns#" ns="//www.w3.org/1999/xhtml" xmlns:foaf="//xmlns.com/foaf/0.1/" xmlns:gr="//purl.org/goodrelations/v1#" xmlns:vcard="//www.w3.org/2006/vcard/ns#">
                                 <div class="footer-widget fl-wrap">
                                     <div class="footer-logo"></div>
-                                    <div class="footer-contacts-widget fl-wrap">
+
+				<!-- goodrelations code -->
+                                    <div class="footer-contacts-widget fl-wrap" about="#company" typeof="gr:BusinessEntity">
+					<div property="gr:legalName" content="Diệt mối tận gốc"></div>
+					<div rel="vcard:adr">
+						<div typeof="vcard:Address">
+							<div property="vcard:country-name" content="Vietnam"></div>
+							<div property="vcard:locality" content="Bà Rịa"></div>
+							<div property="vcard:postal-code" content="790000"></div>
+							<div property="vcard:street-address" content="111E Võ Thi Sáu"></div>
+						</div>
+					</div>
+					<div property="vcard:tel" content="+84 915 550 788"></div>
+					<div rel="foaf:depiction" resource="https://thuongmaibrvt.github.io/dietmoibr.github/image/logo-phuong-nam.png"></div>
+					<div rel="foaf:page" resource="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-goc.html"></div>
+				<!-- end goodrelations code -->
+
                                         <p style="font-size: 16px;">
                                             Diệt mối br phục vụ toàn quốc tận gốc giá rẻ uy tín chuyên nghiệp, Phương Nam (giám đốc công ty ông Vũ Văn Tiến) phòng mối và chống mối bằng phương pháp hóa sinh an toàn sau 30 phút gọi 5/5.
                                         </p>
@@ -387,40 +396,6 @@
                 <!--sub-footer end -->
             </footer>
             <!--footer end -->
-
-            <!-- register form -->
-            <div class="main-register-wrap modal" vocab="https://schema.org/" typeof="FAQPage">
-                <div class="reg-overlay"></div>
-                <div class="main-register-holder tabs-act">
-                    <div class="main-register fl-wrap modal_main">
-                        <div class="main-register_title">
-                            <div>Diệt mối <span><strong style="text-transform: none;">tận gốc</strong></span> - Tiếp thị truyền thông</div>
-                        </div>
-                        <div class="close-reg"><i class="fal fa-times"></i></div>
-                        <ul class="tabs-menu fl-wrap no-list-style">
-                            <li class="current"><a href="#tab-dietmoi"><i class="fal fa-podcast"></i> google podcast</a></li>
-                        </ul>
-                        <!--tabs -->
-                        <div class="tabs-container">
-                            <div class="tab">
-                                <!--tab -->
-                                <div id="tab-dietmoi" class="tab-content first-tab" property="mainEntity" typeof="Question">
-                                    <div class="soc-log fl-wrap">
-                                    	<span style="display: none;" property="name" content="diệt mối tận gốc"></span>
-                                    	<div property="acceptedAnswer" typeof="Answer">
-						<p style="display: none;" property="text">Diệt mối tận gốc toàn quốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam</p>
-						<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9raWVtc29hdG1vaXBodW9uZ25hbQ" class="facebook-log" title="Diệt mối tận gốc" target="_blank">diệt mối</a>
-					</div>
-                                    </div>
-                                </div>
-                                <!--tab end -->
-                            </div>
-                            <!-- tabs end -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- register form end -->
 
             <a class="to-top"><i class="fas fa-caret-up"></i></a>     
         </div>

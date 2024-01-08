@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thuongmaibrvt.github.io/dietmoibr.github/newsmap.xml
+Sitemap: https://thuongmaibrvt.github.io/dietmoibr.github/google-video.xml
+Sitemap: https://thuongmaibrvt.github.io/dietmoibr.github/bing-video.xml

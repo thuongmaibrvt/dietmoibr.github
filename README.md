@@ -46,7 +46,7 @@
 			</a>
 			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#v%C5%A9ng-t%C3%A0u" rel="tag" href="https://phuongnambrvt.github.io/vung-tau/" title="diệt mối br" target="_blank">vũng tàu</a></h3>
 			<div style="font-size: 10px;"><i property="uploadDate" content="2022-12-15T08:00:00+07:00">Dec 15, 2022</i> &nbsp;&nbsp; <i property="duration">PT1M</i> &nbsp;&nbsp; <i property="interactionStatistic" typeof="InteractionCounter"><span property="userInteractionCount">10 views</span> <span style="display: none;" property="interactionType" typeof="WatchAction"></span></i></div>
-			<p property="description">Diệt mối Vũng Tàu phòng chống bảo vệ biệt thự nhà nhà khách sạn nhà riêng kho xưởng phường 2 phường 5 phường 7 phường 10.</p>
+			<p property="description">Diệt mối Vũng Tàu phòng chống bảo vệ biệt thự nhà hàng khách sạn nhà riêng kho xưởng phường 2 phường 5 phường 7 phường 10.</p>
 		</div><span style="display: none;" property="position" content="2"></span></div>
 	</td>
 </tr>

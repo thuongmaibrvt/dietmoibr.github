@@ -14,7 +14,7 @@
 <div property="itemReviewed" typeof="SoftwareApplication">
 	<span style="margin-left: 10%;">Tư vấn zalo : (+84) <a href="https://zalo.me/915550788" title="diệt mối br" target="_blank">915.550.788</a></span><br>
 	<span style="margin-left: 10%;">Mã thuế công ty : 3502 339 313</span><br>
-	<span style="margin-left: 10%;">Hộp thư : dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối br</a></span><br>
+	<span style="margin-left: 10%;">Hộp thư : dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a> phương nam</span><br>
 	<span style="margin-left: 10%;">Địa chỉ : 111E Võ Thi Sáu Bà Rịa</span><br>
 	<span style="margin-left: 10%;">Ứng dụng bing : <span property="name">github business</span></span><br>
 	<span style="margin-left: 10%;">Giá trị quảng cáo <span property="offers" typeof="Offer"><span property="price">3.47</span><span property="priceCurrency">USD</span></span> : <span property="aggregateRating" typeof="AggregateRating"><span property="ratingValue">5</span>/<span property="ratingCount">5</span></span></span><br>

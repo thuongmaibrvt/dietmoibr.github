@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
-		<loc>https://phuongnambrvt.github.io/</loc>
+		<loc>https://thuongmaibrvt.github.io/dietmoibr.github/</loc>
 		<news:news>
 			<news:publication>
-				<news:name>Phuong Nam Brvt</news:name>
+				<news:name>dietmoibr.github</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2023-12-29</news:publication_date>
-			<news:title>phuongnambrvt.github.io</news:title>
-			<news:keywords>phương nam brvt</news:keywords>
+			<news:publication_date>2024-01-08</news:publication_date>
+			<news:title>BR: Diệt mối</news:title>
+			<news:keywords>diệt mối, diet moi</news:keywords>
 		</news:news>
 	</url>
 </urlset>

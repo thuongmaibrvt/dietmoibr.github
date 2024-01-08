@@ -21,7 +21,7 @@
 	<span style="margin-left: 10%;">Phát triển hđh : <span property="operatingSystem">linux</span> và <span property="operatingSystem">windows</span></span><br>
 	<span style="margin-left: 10%;">Chức năng : <span property="applicationCategory" content="BusinessApplication">business</span> <span property="applicationCategory" content="DeveloperApplication">developer</span></span>
 </div>
-<br><p>Phương nam brvt (<span property="author" typeof="Person">giám đốc công ty ông <span property="name">Vũ Văn Tiến</span></span>) diệt mối gián ruồi muỗi chuột bọ côn trùng với giải pháp hóa sinh được đánh giá an toàn <span property="reviewRating" typeof="Rating"><span property="ratingValue">5</span>/5</span> chuyên nghiệp sau 30 phút gọi.</p>
+<br><p>Diệt mối br (<span property="author" typeof="Person">giám đốc công ty ông <span property="name">Vũ Văn Tiến</span></span>) phục vụ toàn quốc uy tín chuyên nghiệp, Phương Nam phòng mối và chống mối bằng phương pháp hóa sinh an toàn <span property="reviewRating" typeof="Rating"><span property="ratingValue">5</span>/5</span> sau 30 phút gọi.</p>
 </div>
 
 <br>

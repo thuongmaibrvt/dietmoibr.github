@@ -21,7 +21,7 @@
 	<span style="margin-left: 10%;">Phát triển hđh : <span property="operatingSystem">linux</span> và <span property="operatingSystem">windows</span></span><br>
 	<span style="margin-left: 10%;">Chức năng : <span property="applicationCategory" content="BusinessApplication">business</span> <span property="applicationCategory" content="DeveloperApplication">developer</span></span>
 </div>
-<br><p>Diệt mối br phục vụ toàn quốc tận gốc giá rẻ uy tín chuyên nghiệp, Phương Nam (<span property="author" typeof="Person">giám đốc công ty ông <span property="name">Vũ Văn Tiến</span></span>) phòng mối và chống mối bằng phương pháp hóa sinh an toàn <span property="reviewRating" typeof="Rating"><span property="ratingValue">5</span>/5</span> sau 30 phút gọi.</p>
+<br><p>Diệt mối br phục vụ toàn quốc tận gốc giá rẻ uy tín chuyên nghiệp, Phương Nam (<span property="author" typeof="Person">giám đốc công ty ông <span property="name">Vũ Văn Tiến</span></span>) phòng mối và chống mối bằng phương pháp hóa sinh an toàn sau 30 phút gọi <span property="reviewRating" typeof="Rating"><span property="ratingValue">5</span>/5</span>.</p>
 </div>
 
 <br>

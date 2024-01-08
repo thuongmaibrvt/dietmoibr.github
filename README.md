@@ -34,7 +34,7 @@
 			<a property="embedUrl" href="https://www.youtube.com/watch?feature=player_embedded&v=Inp3BRRh8l0" title="diệt mối br" target="_blank">
 				<img property="thumbnailUrl" src="https://www.thuongmai.blog/image/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
 			</a>
-			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#b%C3%A0-r%E1%BB%8Ba" rel="tag" href="https://phuongnambrvt.github.io/ba-ria/" title="diệt mối br" target="_blank">bà rịa</a></h3>
+			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#b%C3%A0-r%E1%BB%8Ba" href="https://phuongnambrvt.github.io/ba-ria/" title="diệt mối br" target="_blank">bà rịa</a></h3>
 			<div style="font-size: 10px;"><i property="uploadDate" content="2022-12-15T08:00:00+07:00">Dec 15, 2022</i> &nbsp;&nbsp; <i property="duration">PT1M</i> &nbsp;&nbsp; <i property="interactionStatistic" typeof="InteractionCounter"><span property="userInteractionCount">10 views</span> <span style="display: none;" property="interactionType" typeof="WatchAction"></span></i></div>
 			<p property="description">Diệt mối Bà Rịa phòng chống bảo vệ biệt thự nhà ở sân vận động Long Tâm Phước Nguyên Phước Hưng Hòa Long.</p>
 		</div><span style="display: none;" property="position" content="1"></span></div>
@@ -44,7 +44,7 @@
 			<a property="embedUrl" href="https://www.youtube.com/watch?feature=player_embedded&v=wK_F5qjBLHM" title="diệt mối br" target="_blank">
 				<img property="thumbnailUrl" src="https://www.thuongmai.blog/image/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
 			</a>
-			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#v%C5%A9ng-t%C3%A0u" rel="tag" href="https://phuongnambrvt.github.io/vung-tau/" title="diệt mối br" target="_blank">vũng tàu</a></h3>
+			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#v%C5%A9ng-t%C3%A0u" href="https://phuongnambrvt.github.io/vung-tau/" title="diệt mối br" target="_blank">vũng tàu</a></h3>
 			<div style="font-size: 10px;"><i property="uploadDate" content="2022-12-15T08:00:00+07:00">Dec 15, 2022</i> &nbsp;&nbsp; <i property="duration">PT1M</i> &nbsp;&nbsp; <i property="interactionStatistic" typeof="InteractionCounter"><span property="userInteractionCount">10 views</span> <span style="display: none;" property="interactionType" typeof="WatchAction"></span></i></div>
 			<p property="description">Diệt mối Vũng Tàu phòng chống bảo vệ biệt thự nhà hàng khách sạn nhà ở phường 2 phường 5 phường 7 phường 10.</p>
 		</div><span style="display: none;" property="position" content="2"></span></div>
@@ -56,7 +56,7 @@
 			<a property="embedUrl" href="https://www.youtube.com/watch?feature=player_embedded&v=VvloLix6QEQ" title="diệt mối br" target="_blank">
 				<img property="thumbnailUrl" src="https://www.thuongmai.blog/image/news/long-dien.jpg" width="100%;" alt="diet moi br"/>
 			</a>
-			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#long-%C4%91i%E1%BB%81n" rel="tag" href="https://phuongnambrvt.github.io/long-dien/" title="diệt mối br" target="_blank">long điền</a></h3>
+			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#long-%C4%91i%E1%BB%81n" href="https://phuongnambrvt.github.io/long-dien/" title="diệt mối br" target="_blank">long điền</a></h3>
 			<div style="font-size: 10px;"><i property="uploadDate" content="2022-12-15T08:00:00+07:00">Dec 15, 2022</i> &nbsp;&nbsp; <i property="duration">PT1M</i> &nbsp;&nbsp; <i property="interactionStatistic" typeof="InteractionCounter"><span property="userInteractionCount">8 views</span> <span style="display: none;" property="interactionType" typeof="WatchAction"></span></i></div>
 			<p property="description">Diệt mối Long Điền phòng chống bảo vệ nhà hàng nhà ở khu du lịch khách sạn resort Phước Hải Long Hải.</p>
 		</div><span style="display: none;" property="position" content="3"></span></div>
@@ -66,7 +66,7 @@
 			<a property="embedUrl" href="https://www.youtube.com/watch?feature=player_embedded&v=1yQFq81QuIQ" title="diệt mối br" target="_blank">
 				<img property="thumbnailUrl" src="https://www.thuongmai.blog/image/news/xuyen-moc.jpg" width="100%;" alt="diet moi br"/>
 			</a>
-			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#xuy%C3%AAn-m%E1%BB%99c" rel="tag" href="https://phuongnambrvt.github.io/xuyen-moc/" title="diệt mối br" target="_blank">xuyên mộc</a></h3>
+			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#xuy%C3%AAn-m%E1%BB%99c" href="https://phuongnambrvt.github.io/xuyen-moc/" title="diệt mối br" target="_blank">xuyên mộc</a></h3>
 			<div style="font-size: 10px;"><i property="uploadDate" content="2022-12-16T08:00:00+07:00">Dec 16, 2022</i> &nbsp;&nbsp; <i property="duration">PT1M</i> &nbsp;&nbsp; <i property="interactionStatistic" typeof="InteractionCounter"><span property="userInteractionCount">8 views</span> <span style="display: none;" property="interactionType" typeof="WatchAction"></span></i></div>
 			<p property="description">Diệt mối Xuyên Mộc phòng chống bảo vệ biệt thự nhà hàng khách sạn sòng bài Hồ Tràm Phước Thuận.</p>
 		</div><span style="display: none;" property="position" content="4"></span></div>
@@ -78,7 +78,7 @@
 			<a property="embedUrl" href="https://www.youtube.com/watch?feature=player_embedded&v=6yH0DKDxXPc" title="diệt mối br" target="_blank">
 				<img property="thumbnailUrl" src="https://www.thuongmai.blog/image/news/tan-thanh.jpg" width="100%;" alt="diet moi br"/>
 			</a>
-			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#t%C3%A2n-th%C3%A0nh" rel="tag" href="https://phuongnambrvt.github.io/tan-thanh/" title="diệt mối br" target="_blank">tân thành</a></h3>
+			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#t%C3%A2n-th%C3%A0nh" href="https://phuongnambrvt.github.io/tan-thanh/" title="diệt mối br" target="_blank">tân thành</a></h3>
 			<div style="font-size: 10px;"><i property="uploadDate" content="2022-12-16T08:00:00+07:00">Dec 16, 2022</i> &nbsp;&nbsp; <i property="duration">PT1M</i> &nbsp;&nbsp; <i property="interactionStatistic" typeof="InteractionCounter"><span property="userInteractionCount">1 views</span> <span style="display: none;" property="interactionType" typeof="WatchAction"></span></i></div>
 			<p property="description">Diệt mối Tân Thành phòng chống bảo vệ khu công nghiệp nhà ở biệt thự nhà hàng khách sạn công ty Mỹ Xuân Phú Mỹ.</p>
 		</div><span style="display: none;" property="position" content="5"></span></div>

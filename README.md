@@ -1,4 +1,4 @@
-<div vocab="https://schema.org/" typeof="Review">
+<div vocab="https://schema.org/" typeof="Review" xmlns:rdf="//www.w3.org/1999/02/22-rdf-syntax-ns#" ns="//www.w3.org/1999/xhtml" xmlns:foaf="//xmlns.com/foaf/0.1/" xmlns:gr="//purl.org/goodrelations/v1#" xmlns:vcard="//www.w3.org/2006/vcard/ns#">
 <img property="image" src="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
 <p style="text-align: center;" property="name keywords">dịch vụ diệt mối tận gốc</p>
 <table style="width: 100%;">

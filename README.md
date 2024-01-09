@@ -34,7 +34,7 @@
 			<a property="embedUrl" href="https://www.youtube.com/watch?feature=player_embedded&v=Inp3BRRh8l0" title="diệt mối br" target="_blank">
 				<img property="thumbnailUrl" src="https://www.thuongmai.blog/image/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
 			</a>
-			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#b%C3%A0-r%E1%BB%8Ba" href="https://phuongnambrvt.github.io/ba-ria/" title="diệt mối br" target="_blank">bà rịa</a></h3>
+			<h3 property="name"><a property="url" content="https://phuongnambrvt.github.io/#b%C3%A0-r%E1%BB%8Ba" href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-ba-ria.html" title="diệt mối br" target="_blank">bà rịa</a></h3>
 			<div style="font-size: 10px;"><i property="uploadDate" content="2022-12-15T08:00:00+07:00">Dec 15, 2022</i> &nbsp;&nbsp; <i property="duration">PT1M</i> &nbsp;&nbsp; <i property="interactionStatistic" typeof="InteractionCounter"><span property="userInteractionCount">10 views</span> <span style="display: none;" property="interactionType" typeof="WatchAction"></span></i></div>
 			<p property="description">Diệt mối Bà Rịa phòng chống bảo vệ biệt thự nhà ở sân vận động Long Tâm Phước Nguyên Phước Hưng Hòa Long.</p>
 		</div><span style="display: none;" property="position" content="1"></span></div>

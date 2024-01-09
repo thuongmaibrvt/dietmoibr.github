@@ -6,17 +6,17 @@
 	<description>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam</description>
 
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
-		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/</link>
+		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-goc.html</link>
 		<media:content url="https://www.thuongmai.blog/video/dich-vu-diet-moi.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2,846,483" isDefault="true">
 			<media:player url="https://www.thuongmai.blog/video/dich-vu-diet-moi.mp4" />
-			<media:title>Diệt mối giá rẻ</media:title>
-			<media:description>Diệt mối giá rẻ toàn quốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam</media:description>
+			<media:title>Diệt mối tận gốc</media:title>
+			<media:description>Diệt mối tận gốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam bằng phương pháp hóa sinh an toàn</media:description>
 			<media:thumbnail url="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" height="1200" width="2230"/>
 			<media:price price="0.00" currency="VND" />
 			<media:price type="subscription" />
 		</media:content>
 		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
-		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-08T13:50:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-09T09:45:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
 </channel>

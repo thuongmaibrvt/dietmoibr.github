@@ -4,13 +4,13 @@
 	<site>dietmoibr.github</site>
 	<webMaster>itvtbadboy@hotmail.com</webMaster>
 	<feedType>full</feedType>
-	<lastBuildDate>Tue, 09 Jan 2024 14:39:23 PST</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jan 2024 13:32:23 PST</lastBuildDate>
 	<changefreq>daily</changefreq>
 
 	<item>
-		<title>Diệt mối tận gốc</title>
+		<title>BR: Diệt mối tận gốc</title>
 		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-goc.html</link>
-		<pubDate>Tue, 09 Jan 2024 14:39:23 PST</pubDate>
+		<pubDate>Wed, 10 Jan 2024 13:32:23 PST</pubDate>
 		<description>Diệt mối tận gốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam bằng phương pháp hóa sinh an toàn</description>
 		<content url="https://www.thuongmai.blog/video/dich-vu-diet-moi.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
 		<thumbnail url="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" width="2230" height="1200"/>
@@ -23,9 +23,9 @@
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
 	<item>
-		<title>Diệt mối Bà Rịa</title>
+		<title>Bà Rịa: Diệt mối tận gốc</title>
 		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-ba-ria.html</link>
-		<pubDate>Tue, 09 Jan 2024 14:39:23 PST</pubDate>
+		<pubDate>Wed, 10 Jan 2024 13:32:23 PST</pubDate>
 		<description>Diệt mối tận gốc Long Tâm Hòa Long Phước Nguyên Phước Hưng thành phố Bà Rịa</description>
 		<content url="https://www.thuongmai.blog/video/diet-moi-ba-ria.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
 		<thumbnail url="https://www.thuongmai.blog/image/news/ba-ria.jpg" width="1697" height="1200"/>
@@ -33,6 +33,21 @@
 		<category>Services</category>
 		<viewCount>1</viewCount>
 		<embedHtml>https://www.thuongmai.blog/video/diet-moi-ba-ria.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+	<item>
+		<title>Vũng Tàu: Diệt mối tận gốc</title>
+		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-vung-tau.html</link>
+		<pubDate>Wed, 10 Jan 2024 13:32:23 PST</pubDate>
+		<description>Diệt mối tận gốc phường 2 phường 5 phường 7 phường 8 phường 10 thành phố Vũng Tàu</description>
+		<content url="https://www.thuongmai.blog/video/diet-moi-vung-tau.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://www.thuongmai.blog/image/news/vung-tau.jpg" width="1697" height="1200"/>
+		<keywords>Diệt mối Bà Rịa</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://www.thuongmai.blog/video/diet-moi-vung-tau.mp4</embedHtml>
 		<restriction relationship="allow" type="country">VN US SG</restriction>
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>

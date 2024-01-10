@@ -7,7 +7,7 @@
 
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-goc.html</link>
-		<media:content url="https://www.thuongmai.blog/video/dich-vu-diet-moi.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2,846,483" isDefault="true">
+		<media:content url="https://www.thuongmai.blog/video/dich-vu-diet-moi.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2846483" isDefault="true">
 			<media:player url="https://www.thuongmai.blog/video/dich-vu-diet-moi.mp4" />
 			<media:title>BR: Diệt mối tận gốc</media:title>
 			<media:description>Diệt mối tận gốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam bằng phương pháp hóa sinh an toàn</media:description>
@@ -21,7 +21,7 @@
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-ba-ria.html</link>
-		<media:content url="https://www.thuongmai.blog/video/diet-moi-ba-ria.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2,544,069" isDefault="true">
+		<media:content url="https://www.thuongmai.blog/video/diet-moi-ba-ria.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2544069" isDefault="true">
 			<media:player url="https://www.thuongmai.blog/video/diet-moi-ba-ria.mp4" />
 			<media:title>Bà Rịa: Diệt mối tận gốc</media:title>
 			<media:description>Diệt mối tận gốc Long Tâm Hòa Long Phước Nguyên Phước Hưng thành phố Bà Rịa</media:description>
@@ -35,7 +35,7 @@
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-vung-tau.html</link>
-		<media:content url="https://www.thuongmai.blog/video/diet-moi-vung-tau.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2,723,148" isDefault="true">
+		<media:content url="https://www.thuongmai.blog/video/diet-moi-vung-tau.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2723148" isDefault="true">
 			<media:player url="https://www.thuongmai.blog/video/diet-moi-vung-tau.mp4" />
 			<media:title>Vũng Tàu: Diệt mối tận gốc</media:title>
 			<media:description>Diệt mối tận gốc phường 2 phường 5 phường 7 phường 8 phường 10 thành phố Vũng Tàu</media:description>

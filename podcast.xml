@@ -10,11 +10,6 @@
 	<description>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam</description>
 	<language>vi-VN</language>
 	<link>https://thuongmaibrvt.github.io/dietmoibr.github/</link>
-	<googleplay:image>
-		<url>https://thuongmaibrvt.github.io/dietmoibr.github/image/logo-phuong-nam.png</url>
-		<title>DietmoiBR</title>
-		<link>https://thuongmaibrvt.github.io/dietmoibr.github/</link>
-	</googleplay:image>
 	<googleplay:owner>dietmoigianvungtau@gmail.com</googleplay:owner>
 	<itunes:owner><itunes:email>dietmoigianvungtau@gmail.com</itunes:email></itunes:owner>
 	<itunes:author>itvtbadboy</itunes:author>

@@ -6,8 +6,8 @@
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-            [locationData('https://br.kiemsoatmoiphuongnam.blog/br/long-dien/diet-moi-long-dien-nha-co-6-phuoc-hai.html', 'https://br.kiemsoatmoiphuongnam.blog/image/600-400/map-co-6-long-dien.jpg', 'Nhà riêng Long Điền', "Phước Hải Long Điền, VN", 'hotels-cat', "5", "5", "Long Điền"  ), 10.4123287, 107.2596896, 0 , 'https://br.kiemsoatmoiphuongnam.blog/image/600-400/map-co-6-long-dien.jpg'],
-            [locationData('https://br.kiemsoatmoiphuongnam.blog/br/long-dien/diet-muoi-long-dien-nha-hang-hai-dong-long-hai.html', 'https://br.kiemsoatmoiphuongnam.blog/image/map-phuong-nam.jpg', 'Nhà hàng Long Điền', "Long Hải Long Điền, VN", 'cafe-cat', "5", "5", "Long Điền"  ), 10.4017719, 107.2317442, 1 , 'https://br.kiemsoatmoiphuongnam.blog/image/map-phuong-nam.jpg'],
+            [locationData('https://www.kiemsoatmoiphuongnam.blog/2023/09/moi-nha-rieng-co-6-phuoc-hai.html', 'https://www.thuongmai.blog/image/600-400/map-co-6-long-dien.jpg', 'Nhà ở Long Điền', "Phước Hải Long Điền, VN", 'hotels-cat', "5", "5", "Long Điền"  ), 10.4123287, 107.2596896, 0 , 'https://www.thuongmai.blog/image/600-400/map-co-6-long-dien.jpg'],
+            [locationData('https://www.kiemsoatmoiphuongnam.blog/2023/09/muoi-nha-hang-hai-dong-long-hai.html', 'https://www.thuongmai.blog/image/news/muoi-benh-sot-xuat-huyet.jpg', 'Nhà hàng Long Điền', "Long Hải Long Điền, VN", 'cafe-cat', "5", "5", "Long Điền"  ), 10.4017719, 107.2317442, 1 , 'https://www.thuongmai.blog/image/news/muoi-benh-sot-xuat-huyet.jpg'],
         ];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('map-main'), {

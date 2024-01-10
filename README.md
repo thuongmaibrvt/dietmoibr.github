@@ -1,7 +1,6 @@
 <div vocab="https://schema.org/" typeof="Review">
 <img property="image" src="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
-<p style="text-align: center;" property="name keywords">dịch vụ diệt mối tận gốc</p>
-<h2>phương nam brvt</h2>
+<h2 property="name keywords">phương nam brvt</h2>
 <table style="width: 100%;">
 <tr>
 	<td style="width: 50%;">

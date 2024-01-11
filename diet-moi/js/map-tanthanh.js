@@ -16,7 +16,7 @@
         var map = new google.maps.Map(document.getElementById('map-main'), {
             zoom: 13,
             scrollwheel: false,
-            center: new google.maps.LatLng(10.5865799, 107.1079497),
+            center: new google.maps.LatLng(10.592317, 107.1079497),
             mapTypeId: google.maps.MapTypeId.ROADMAP,
             zoomControl: false,
             mapTypeControl: false,

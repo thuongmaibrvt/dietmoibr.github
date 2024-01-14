@@ -18,7 +18,7 @@
 	<span style="margin-left: 10%;">Hộp thư tư vấn dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></span><br>
 	<span style="margin-left: 10%;">Địa chỉ 111E Võ Thi Sáu Bà Rịa</span><br>
 	<span style="margin-left: 10%;">Ứng dụng bing github business</span><br>
-	<span style="margin-left: 10%;">Giá trị quảng cáo tháng 3.47USD</span><br>
+	<span style="margin-left: 10%;">Giá trị quảng cáo tháng 3.47 $</span><br>
 	<span style="margin-left: 10%;">Phát triển hđh linux và windows</span><br>
 	<span style="margin-left: 10%;">Chức năng business developer
 </div><br>

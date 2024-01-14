@@ -27,7 +27,7 @@
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-long-dien.html" title="diệt mối br" target="_blank">long điền</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT5M15S</i> &nbsp;&nbsp; <i>8 views</i></div>
-					<p>Diệt mối Long Điền phòng chống bảo vệ nhà hàng nhà ở khu du lịch khách sạn resort Phước Hải Long Hải.</p></div>
+					<p>Diệt mối Long Điền phòng chống bảo vệ nhà hàng nhà ở khu du lịch khách sạn resort Phước Hải Long Hải.</p>
 				</td>
 				<td style="width: 50%;">
 					<a href="https://www.youtube.com/watch?feature=player_embedded&v=FV41mdcNjqc" title="diệt mối br" target="_blank">

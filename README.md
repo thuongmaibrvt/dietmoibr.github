@@ -63,8 +63,8 @@
 
 <div xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#" ns="https://www.w3.org/1999/xhtml" xmlns:foaf="https://xmlns.com/foaf/0.1/" xmlns:gr="https://purl.org/goodrelations/v1#" xmlns:vcard="https://www.w3.org/2006/vcard/ns#">
 <div class="footer-contacts-widget fl-wrap" about="#company" typeof="gr:BusinessEntity">
-<img src="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
 <h2>phương nam brvt</h2>
+<img src="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
 <table style="width: 100%;">
 <tr>
 	<td style="width: 50%;">

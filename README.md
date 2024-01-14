@@ -83,7 +83,7 @@
 		<span style="margin-left: 10%;">Giá trị quảng cáo tháng 3.47 đô</span><br>
 		<span style="margin-left: 10%;">Phát triển hđh linux và windows</span><br>
 		<span style="margin-left: 10%;">Chức năng business developer</span><br><br>
-		<p>Diệt mối br phục vụ toàn quốc tận gốc giá rẻ uy tín chuyên nghiệp, Phương Nam (giám đốc công ty ông Vũ Văn Tiến) phòng mối và chống mối bằng phương pháp hóa sinh an toàn sau 30 phút gọi.</p>
+		<p>Công ty diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) được phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmobr.github.</p>
 		<span rel="vcard:geo">
 			<span property="vcard:latitude" content="10.6283112" datatype="xsd:float"></span>
 			<span property="vcard:longitude" content="106.9496692" datatype="xsd:float"></span>

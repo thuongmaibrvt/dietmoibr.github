@@ -76,7 +76,7 @@
 			</tr>
 		</table>
 		<span style="margin-left: 10%;">Tư vấn nhanh <span property="vcard:tel">+84 <a href="https://zalo.me/915550788" title="diệt mối br" target="_blank">915 550 788</a></span></span><br>
-		<span style="margin-left: 10%;">Mã thuế công ty 3502 339 313</span><br>
+		<span style="margin-left: 10%;">Thuế của công ty 3502 339 313</span><br>
 		<span style="margin-left: 10%;" rel="vcard:adr"><span typeof="vcard:Address">Địa chỉ <span property="vcard:street-address">111E Võ Thi Sáu</span> <span property="vcard:locality">Bà Rịa</span> <span property="vcard:country-name" content="Vietnam"></span> <span property="vcard:postal-code" content="790000"></span></span></span><br>
 		<span style="margin-left: 10%;">Hộp thư tư vấn dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></span><br>
 		<span style="margin-left: 10%;">Ứng dụng bing github business</span><br>

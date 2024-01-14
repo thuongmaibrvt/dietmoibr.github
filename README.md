@@ -1,33 +1,3 @@
-<div xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#" ns="https://www.w3.org/1999/xhtml" xmlns:foaf="https://xmlns.com/foaf/0.1/" xmlns:gr="https://purl.org/goodrelations/v1#" xmlns:vcard="https://www.w3.org/2006/vcard/ns#">
-<div class="footer-contacts-widget fl-wrap" about="#company" typeof="gr:BusinessEntity">
-<img src="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
-<h2>phương nam brvt</h2>
-<table style="width: 100%;">
-<tr>
-	<td style="width: 50%;">
-		<a href="https://www.pinterest.com/moiphuongnam/" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-github.png" width="100%;" alt="diet moi br"/></a>
-	</td>
-	<td style="width: 50%;">
-		<a href="https://www.youtube.com/@dietmoigianvungtau4923" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-github.png" width="100%;" alt="diet moi br"/></a>
-	</td>
-</tr>
-</table>
-<div>
-	<span style="margin-left: 10%;">Tư vấn zalo (+84) <a href="https://zalo.me/915550788" title="diệt mối br" target="_blank">915.550.788</a></span><br>
-	<span style="margin-left: 10%;">Mã thuế công ty 3502 339 313</span><br>
-	<span style="margin-left: 10%;">Hộp thư tư vấn dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></span><br>
-	<span style="margin-left: 10%;">Địa chỉ 111E Võ Thi Sáu Bà Rịa</span><br>
-	<span style="margin-left: 10%;">Ứng dụng bing github business</span><br>
-	<span style="margin-left: 10%;">Giá trị quảng cáo tháng 3.47 đô</span><br>
-	<span style="margin-left: 10%;">Phát triển hđh linux và windows</span><br>
-	<span style="margin-left: 10%;">Chức năng business developer
-</div><br>
-<p>Diệt mối br phục vụ toàn quốc tận gốc giá rẻ uy tín chuyên nghiệp, Phương Nam (giám đốc công ty ông Vũ Văn Tiến) phòng mối và chống mối bằng phương pháp hóa sinh an toàn sau 30 phút gọi.</p>
-</div>
-</div>
-
-<br>
-
 ## diệt mối giá rẻ
 <div vocab="https://schema.org" typeof="ItemList"><table style="width: 100%;">
 <tr>
@@ -88,3 +58,33 @@
 	<td style="width: 50%;"></td>
 </tr>
 </table></div>
+
+<br>
+
+<div xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#" ns="https://www.w3.org/1999/xhtml" xmlns:foaf="https://xmlns.com/foaf/0.1/" xmlns:gr="https://purl.org/goodrelations/v1#" xmlns:vcard="https://www.w3.org/2006/vcard/ns#">
+<div class="footer-contacts-widget fl-wrap" about="#company" typeof="gr:BusinessEntity">
+<img src="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
+<h2>phương nam brvt</h2>
+<table style="width: 100%;">
+<tr>
+	<td style="width: 50%;">
+		<a href="https://www.pinterest.com/moiphuongnam/" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-github.png" width="100%;" alt="diet moi br"/></a>
+	</td>
+	<td style="width: 50%;">
+		<a href="https://www.youtube.com/@dietmoigianvungtau4923" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-github.png" width="100%;" alt="diet moi br"/></a>
+	</td>
+</tr>
+</table>
+<div>
+	<span style="margin-left: 10%;">Tư vấn zalo (+84) <a href="https://zalo.me/915550788" title="diệt mối br" target="_blank">915.550.788</a></span><br>
+	<span style="margin-left: 10%;">Mã thuế công ty 3502 339 313</span><br>
+	<span style="margin-left: 10%;">Hộp thư tư vấn dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></span><br>
+	<span style="margin-left: 10%;">Địa chỉ 111E Võ Thi Sáu Bà Rịa</span><br>
+	<span style="margin-left: 10%;">Ứng dụng bing github business</span><br>
+	<span style="margin-left: 10%;">Giá trị quảng cáo tháng 3.47 đô</span><br>
+	<span style="margin-left: 10%;">Phát triển hđh linux và windows</span><br>
+	<span style="margin-left: 10%;">Chức năng business developer
+</div><br>
+<p>Diệt mối br phục vụ toàn quốc tận gốc giá rẻ uy tín chuyên nghiệp, Phương Nam (giám đốc công ty ông Vũ Văn Tiến) phòng mối và chống mối bằng phương pháp hóa sinh an toàn sau 30 phút gọi.</p>
+</div>
+</div>

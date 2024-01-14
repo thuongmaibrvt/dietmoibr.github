@@ -10,7 +10,7 @@
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-ba-ria.html" title="diệt mối br" target="_blank">bà rịa</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M22S</i> &nbsp;&nbsp; <i>10 views</i></div>
-					<p>Diệt mối Bà Rịa phòng chống bảo vệ biệt thự nhà ở sân vận động Long Tâm Phước Nguyên Phước Hưng Hòa Long.</p>
+					<p>Diệt mối Bà Rịa, Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
 				</td>
 				<td style="width: 50%;">
 					<a href="https://www.youtube.com/watch?feature=player_embedded&v=ejcavIZPrJs" title="diệt mối br" target="_blank">
@@ -18,7 +18,7 @@
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-vung-tau.html" title="diệt mối br" target="_blank">vũng tàu</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M11S</i> &nbsp;&nbsp; <i>10 views</i></div>
-					<p>Diệt mối Vũng Tàu phòng chống bảo vệ biệt thự nhà hàng khách sạn nhà ở phường 2 phường 5 phường 7 phường 10.</p>
+					<p>Diệt mối Vũng Tàu, phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
 				</td>
 			</tr>
 			<tr>
@@ -28,7 +28,7 @@
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-long-dien.html" title="diệt mối br" target="_blank">long điền</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT5M15S</i> &nbsp;&nbsp; <i>8 views</i></div>
-					<p>Diệt mối Long Điền phòng chống bảo vệ nhà hàng nhà ở khu du lịch khách sạn resort Phước Hải Long Hải.</p>
+					<p>Diệt mối Long Điền, An Ngãi An Nhứt Phước Hải Long Hải...</p>
 				</td>
 				<td style="width: 50%;">
 					<a href="https://www.youtube.com/watch?feature=player_embedded&v=FV41mdcNjqc" title="diệt mối br" target="_blank">
@@ -36,7 +36,7 @@
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-xuyen-moc.html" title="diệt mối br" target="_blank">xuyên mộc</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>8 views</i></div>
-					<p>Diệt mối Xuyên Mộc phòng chống bảo vệ biệt thự nhà hàng khách sạn sòng bài Hồ Tràm Phước Thuận.</p>
+					<p>Diệt mối Xuyên Mộc, Hồ Tràm Phước Thuận Phước Bửu...</p>
 				</td>
 			</tr>
 			<tr>
@@ -46,7 +46,7 @@
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-thanh.html" title="diệt mối br" target="_blank">tân thành</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M17S</i> &nbsp;&nbsp; <i>1 views</i></div>
-					<p>Diệt mối Tân Thành phòng chống bảo vệ khu công nghiệp nhà ở biệt thự nhà hàng khách sạn công ty Mỹ Xuân Phú Mỹ.</p>
+					<p>Diệt mối Tân Thành, Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha...</p>
 				</td>
 				<td style="width: 50%;">
 					<a href="#" title="diệt mối br" target="_blank">
@@ -54,7 +54,7 @@
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-vietnam.html" title="diệt mối br" target="_blank">việt nam</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>1 views</i></div>
-					<p>Diệt mối Việt Nam phòng chống bảo vệ sòng bài nhà ở biệt thự nhà hàng khách sạn công ty Đồng Nai Bình Dương.</p>
+					<p>Diệt mối Việt Nam, Đồng Nai Bình Dương TPHCM Hà Nội...</p>
 				</td>
 			</tr>
 		</table>

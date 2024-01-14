@@ -1,12 +1,22 @@
 <div xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#" ns="https://www.w3.org/1999/xhtml" xmlns:foaf="https://xmlns.com/foaf/0.1/" xmlns:gr="https://purl.org/goodrelations/v1#" xmlns:vcard="https://www.w3.org/2001/XMLSchema#">
-	<div about="#company" typeof="gr:BusinessEntity">
-		<h2 property="gr:legalName">diệt mối giá rẻ</h2>
-		<p>Diệt mối giá rẻ Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam. Diệt mối giá rẻ toàn quốc bao gồm côn trùng ruồi muỗi kiến gián chuột sâu bọ chuyên nghiệp.</p>
+	<div about="#offering" typeof="gr:Offering">
+		<h2 property="gr:name" xml:lang="vi">diệt mối giá rẻ</h2>
+		<p property="gr:description" xml:lang="vi">Diệt mối giá rẻ Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam. Diệt mối giá rẻ toàn quốc bao gồm côn trùng ruồi muỗi kiến gián chuột sâu bọ chuyên nghiệp.</p>
+		<span rel="gr:hasBusinessFunction" resource="http://purl.org/goodrelations/v1#Sell"></span>
+		<span rel="gr:hasEAN_UCC-10" content="3502339313"></span>
+		<span rel="gr:hasPriceSpecification">
+			<span typeof="gr:UnitPriceSpecification">
+				<span property="gr:hasCurrency" content="VND" datatype="xsd:string"></span>
+				<span property="gr:hasCurrencyValue" content="1500000" datatype="xsd:float"></span>
+			</span>
+		</span>
+		<span rel="gr:acceptedPaymentMethods" resource="http://purl.org/goodrelations/v1#MasterCard"></span>
+		<span rel="foaf:page" resource="https://thuongmaibrvt.github.io/dietmoibr.github/#di%E1%BB%87t-m%E1%BB%91i-gi%C3%A1-r%E1%BA%BB"></span>
 		<table style="width: 100%;">
 			<tr>
 				<td style="width: 50%;">
 					<a href="https://www.youtube.com/watch?feature=player_embedded&v=AQO0rln5SXk" title="diệt mối br" target="_blank">
-						<img src="https://www.thuongmai.blog/image/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
+						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-ba-ria.html" title="diệt mối br" target="_blank">bà rịa</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M22S</i> &nbsp;&nbsp; <i>10 views</i></div>
@@ -14,7 +24,7 @@
 				</td>
 				<td style="width: 50%;">
 					<a href="https://www.youtube.com/watch?feature=player_embedded&v=ejcavIZPrJs" title="diệt mối br" target="_blank">
-						<img src="https://www.thuongmai.blog/image/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
+						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-vung-tau.html" title="diệt mối br" target="_blank">vũng tàu</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M11S</i> &nbsp;&nbsp; <i>10 views</i></div>
@@ -24,7 +34,7 @@
 			<tr>
 				<td style="width: 50%;">
 					<a href="https://www.youtube.com/watch?feature=player_embedded&v=kaqghhDNTLA" title="diệt mối br" target="_blank">
-						<img src="https://www.thuongmai.blog/image/news/long-dien.jpg" width="100%;" alt="diet moi br"/>
+						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/long-dien.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-long-dien.html" title="diệt mối br" target="_blank">long điền</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT5M15S</i> &nbsp;&nbsp; <i>8 views</i></div>
@@ -32,7 +42,7 @@
 				</td>
 				<td style="width: 50%;">
 					<a href="https://www.youtube.com/watch?feature=player_embedded&v=FV41mdcNjqc" title="diệt mối br" target="_blank">
-						<img src="https://www.thuongmai.blog/image/news/xuyen-moc.jpg" width="100%;" alt="diet moi br"/>
+						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/xuyen-moc.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-xuyen-moc.html" title="diệt mối br" target="_blank">xuyên mộc</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>8 views</i></div>
@@ -42,7 +52,7 @@
 			<tr>
 				<td style="width: 50%;">
 					<a href="https://www.youtube.com/watch?feature=player_embedded&v=Ud18SN1BC1I" title="diệt mối br" target="_blank">
-						<img src="https://www.thuongmai.blog/image/news/tan-thanh.jpg" width="100%;" alt="diet moi br"/>
+						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/tan-thanh.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-thanh.html" title="diệt mối br" target="_blank">tân thành</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M17S</i> &nbsp;&nbsp; <i>1 views</i></div>
@@ -90,6 +100,7 @@
 			<span property="vcard:latitude" content="10.6283112" datatype="xsd:float"></span>
 			<span property="vcard:longitude" content="106.9496692" datatype="xsd:float"></span>
 		</span>
+		<span rel="foaf:page" resource="https://thuongmaibrvt.github.io/dietmoibr.github/#c%C3%B4ng-ty-di%E1%BB%87t-m%E1%BB%91i"></span>
 	</div>
 </div>
 <p>Diệt mối tận gốc điểm vui chơi điểm du lịch khu nghỉ dưỡng nhà khách nhà nghỉ resort khách sạn khu văn hóa biệt thự nhà hàng sòng bài sân bóng đá trường học kho xưởng.</p>

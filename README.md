@@ -73,6 +73,11 @@
 
 <br>
 
+## diệt mối tận gốc
+<p>Diệt mối tận gốc điểm vui chơi điểm du lịch khu nghỉ dưỡng nhà khách nhà nghỉ resort khách sạn khu văn hóa biệt thự nhà hàng sòng bài sân bóng đá trường học kho xưởng.</p>
+
+<br>
+
 <div xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#" ns="https://www.w3.org/1999/xhtml" xmlns:foaf="https://xmlns.com/foaf/0.1/" xmlns:gr="https://purl.org/goodrelations/v1#" xmlns:vcard="https://www.w3.org/2006/vcard/ns#">
 	<div about="#company" typeof="gr:BusinessEntity">
 		<h2 property="gr:legalName">công ty diệt mối</h2>
@@ -103,4 +108,3 @@
 		<span rel="foaf:page" resource="https://thuongmaibrvt.github.io/dietmoibr.github/#c%C3%B4ng-ty-di%E1%BB%87t-m%E1%BB%91i"></span>
 	</div>
 </div>
-<p>Diệt mối tận gốc điểm vui chơi điểm du lịch khu nghỉ dưỡng nhà khách nhà nghỉ resort khách sạn khu văn hóa biệt thự nhà hàng sòng bài sân bóng đá trường học kho xưởng.</p>

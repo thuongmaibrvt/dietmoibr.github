@@ -17,9 +17,9 @@
 	<span style="margin-left: 10%;">Mã thuế công ty : 3502 339 313</span><br>
 	<span style="margin-left: 10%;">Hộp thư tư vấn : dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></span><br>
 	<span style="margin-left: 10%;">Địa chỉ : 111E Võ Thi Sáu Bà Rịa</span><br>
-	<span style="margin-left: 10%;">Ứng dụng bing : <span>github business</span></span><br>
-	<span style="margin-left: 10%;">Giá trị quảng cáo 3.47USD : 5/5<br>
-	<span style="margin-left: 10%;">Phát triển hđh : linux và windows<br>
+	<span style="margin-left: 10%;">Ứng dụng bing : github business</span><br>
+	<span style="margin-left: 10%;">Giá trị quảng cáo : 3.47 USD</span><br>
+	<span style="margin-left: 10%;">Phát triển hđh : linux và windows</span><br>
 	<span style="margin-left: 10%;">Chức năng : business developer
 </div><br>
 <p>Diệt mối br phục vụ toàn quốc tận gốc giá rẻ uy tín chuyên nghiệp, Phương Nam (giám đốc công ty ông Vũ Văn Tiến) phòng mối và chống mối bằng phương pháp hóa sinh an toàn sau 30 phút gọi.</p>

@@ -74,7 +74,7 @@
 <br>
 
 ## diệt mối tận gốc
-<p>Diệt mối tận gốc tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
+<p>Diệt mối tận gốc tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
 - [x] Có xe cơ động
 - [x] Chuyên nghiệp
 - [x] Phun xịt an toàn

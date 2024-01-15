@@ -3,7 +3,7 @@
 <channel>
 	<title>dietmoibr.github</title>
 	<link>https://thuongmaibrvt.github.io/dietmoibr.github/</link>
-	<description>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam</description>
+	<description>Diệt mối tận gốc giá rẻ chuyên nghiệp Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam</description>
 
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-goc.html</link>
@@ -16,7 +16,7 @@
 			<media:price type="subscription" />
 		</media:content>
 		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
-		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-11T13:38:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-15T13:27:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
@@ -30,7 +30,7 @@
 			<media:price type="subscription" />
 		</media:content>
 		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
-		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-11T13:38:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-15T13:27:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
@@ -44,7 +44,7 @@
 			<media:price type="subscription" />
 		</media:content>
 		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
-		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-11T13:38:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-15T13:27:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
@@ -58,7 +58,7 @@
 			<media:price type="subscription" />
 		</media:content>
 		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
-		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-11T13:38:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-15T13:27:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
@@ -72,8 +72,21 @@
 			<media:price type="subscription" />
 		</media:content>
 		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
-		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-11T13:38:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-15T13:27:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
-</channel>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-xuyen-moc.html</link>
+		<media:content url="https://www.thuongmai.blog/video/diet-moi-xuyen-moc.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3124193" isDefault="true">
+			<media:player url="https://www.thuongmai.blog/video/diet-moi-xuyen-moc.mp4" />
+			<media:title>Xuyên Mộc: Diệt mối tận gốc</media:title>
+			<media:description>Diệt mối tận gốc Hồ Tràm Phước Thuận Phước Bửu huyện Xuyên Mộc</media:description>
+			<media:thumbnail url="https://www.thuongmai.blog/image/news/xuyen-moc.jpg" height="1200" width="1697"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-01-15T13:27:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </rss>

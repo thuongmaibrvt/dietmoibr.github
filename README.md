@@ -19,7 +19,7 @@
 						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-ba-ria.html" title="diệt mối br" target="_blank">mối bà rịa</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M22S</i> &nbsp;&nbsp; <i>10 views</i></div>
+					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M22S</i> &nbsp;&nbsp; <i>10/5</i></div>
 					<p>Diệt mối Bà Rịa, Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
 				</td>
 				<td style="width: 50%;">
@@ -27,7 +27,7 @@
 						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-vung-tau.html" title="diệt mối br" target="_blank">mối vũng tàu</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M11S</i> &nbsp;&nbsp; <i>10 views</i></div>
+					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M11S</i> &nbsp;&nbsp; <i>10/5</i></div>
 					<p>Diệt mối Vũng Tàu, phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
 				</td>
 			</tr>
@@ -37,7 +37,7 @@
 						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/long-dien.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-long-dien.html" title="diệt mối br" target="_blank">mối long điền</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT5M15S</i> &nbsp;&nbsp; <i>8 views</i></div>
+					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT5M15S</i> &nbsp;&nbsp; <i>8/5</i></div>
 					<p>Diệt mối Long Điền, An Ngãi An Nhứt Phước Hải Long Hải...</p>
 				</td>
 				<td style="width: 50%;">
@@ -45,7 +45,7 @@
 						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/xuyen-moc.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-xuyen-moc.html" title="diệt mối br" target="_blank">mối xuyên mộc</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>8 views</i></div>
+					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>8/5</i></div>
 					<p>Diệt mối Xuyên Mộc, Hồ Tràm Phước Thuận Phước Bửu...</p>
 				</td>
 			</tr>
@@ -55,7 +55,7 @@
 						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/tan-thanh.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-thanh.html" title="diệt mối br" target="_blank">mối tân thành</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M17S</i> &nbsp;&nbsp; <i>1 views</i></div>
+					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M17S</i> &nbsp;&nbsp; <i>1/5</i></div>
 					<p>Diệt mối Tân Thành, Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha...</p>
 				</td>
 				<td style="width: 50%;">
@@ -63,7 +63,7 @@
 						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/viet-nam.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-viet-nam.html" title="diệt mối br" target="_blank">mối việt nam</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>1 views</i></div>
+					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>1/5</i></div>
 					<p>Diệt mối Việt Nam, Đồng Nai Bình Dương TPHCM Hà Nội...</p>
 				</td>
 			</tr>

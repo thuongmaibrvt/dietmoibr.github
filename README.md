@@ -59,8 +59,8 @@
 					<p>Diệt mối Tân Thành, Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha...</p>
 				</td>
 				<td style="width: 50%;">
-					<a href="#" title="diệt mối br" target="_blank">
-						<img src="https://www.thuongmai.blog/image/news/viet-nam.jpg" width="100%;" alt="diet moi br"/>
+					<a href="https://www.youtube.com/watch?feature=player_embedded&v=-z9GqrOhdzQ" title="diệt mối br" target="_blank">
+						<img rel="foaf:depiction" src="https://www.thuongmai.blog/image/news/viet-nam.jpg" width="100%;" alt="diet moi br"/>
 					</a>
 					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-viet-nam.html" title="diệt mối br" target="_blank">mối việt nam</a></h3>
 					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>1 views</i></div>

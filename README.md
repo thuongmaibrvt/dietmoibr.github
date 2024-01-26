@@ -73,35 +73,28 @@
 
 <br>
 
-<div xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#" ns="https://www.w3.org/1999/xhtml" xmlns:foaf="https://xmlns.com/foaf/0.1/" xmlns:gr="https://purl.org/goodrelations/v1#" xmlns:vcard="https://www.w3.org/2006/vcard/ns#">
-	<div about="#company" typeof="gr:BusinessEntity">
-		<h2 property="gr:legalName">công ty diệt mối</h2>
-		<img src="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
-		<table style="width: 100%;">
-			<tr>
-				<td style="width: 50%;">
-					<a href="https://www.pinterest.com/moiphuongnam/" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-black.png" width="100%;" alt="diet moi br"/></a>
-				</td>
-				<td style="width: 50%;">
-					<a href="https://www.youtube.com/@dietmoigianvungtau4923" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-black.png" width="100%;" alt="diet moi br"/></a>
-				</td>
-			</tr>
-		</table>
-		<span style="margin-left: 10%;">Tư vấn nhanh <span property="vcard:tel">+84 <a href="https://zalo.me/915550788" title="diệt mối br" target="_blank">915 550 788</a></span></span><br>
-		<span style="margin-left: 10%;">Thuế của công ty 3502 339 313</span><br>
-		<span style="margin-left: 10%;" rel="vcard:adr"><span typeof="vcard:Address">Địa chỉ <span property="vcard:street-address">111E Võ Thi Sáu</span> <span property="vcard:locality">Bà Rịa</span> <span property="vcard:country-name" content="Vietnam"></span> <span property="vcard:postal-code" content="790000"></span></span></span><br>
-		<span style="margin-left: 10%;">Hộp thư tư vấn dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></span><br>
-		<span style="margin-left: 10%;">Ứng dụng bing github business</span><br>
-		<span style="margin-left: 10%;">Giá trị quảng cáo tháng 3.47 đô</span><br>
-		<span style="margin-left: 10%;">Phát triển hđh linux và windows</span><br>
-		<span style="margin-left: 10%;">Chức năng business developer</span><br>
-		<span style="margin-left: 10%;">Điểm thương hiệu dietmoibr 5/5</span><br>
-		<span style="margin-left: 10%;">Itbadboy 5/100/100 2024/01/17</span><br><br>
-		<p>Công ty diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao. Công ty diệt mối do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github. Công ty diệt mối Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật.</p>
-		<span rel="vcard:geo">
-			<span property="vcard:latitude" content="10.6283112" datatype="xsd:float"></span>
-			<span property="vcard:longitude" content="106.9496692" datatype="xsd:float"></span>
-		</span>
-		<span rel="foaf:page" resource="https://thuongmaibrvt.github.io/dietmoibr.github/#c%C3%B4ng-ty-di%E1%BB%87t-m%E1%BB%91i"></span>
-	</div>
+<div>
+	<h2>công ty diệt mối</h2>
+	<img src="https://www.thuongmai.blog/image/doi-tac/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
+	<table style="width: 100%;">
+		<tr>
+			<td style="width: 50%;">
+				<a href="https://www.pinterest.com/moiphuongnam/" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-black.png" width="100%;" alt="diet moi br"/></a>
+			</td>
+			<td style="width: 50%;">
+				<a href="https://www.youtube.com/@dietmoigianvungtau4923" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/image/doi-tac/logo-black.png" width="100%;" alt="diet moi br"/></a>
+			</td>
+		</tr>
+	</table>
+	<span style="margin-left: 10%;">Tư vấn nhanh +84 <a href="https://zalo.me/915550788" title="diệt mối br" target="_blank">915 550 788</a></span><br>
+	<span style="margin-left: 10%;">Thuế của công ty 3502 339 313</span><br>
+	<span style="margin-left: 10%;">Địa chỉ 111E Võ Thi Sáu Bà Rịa</span><br>
+	<span style="margin-left: 10%;">Hộp thư tư vấn dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></span><br>
+	<span style="margin-left: 10%;">Ứng dụng bing github business</span><br>
+	<span style="margin-left: 10%;">Giá trị quảng cáo tháng 3.47 đô</span><br>
+	<span style="margin-left: 10%;">Phát triển hđh linux và windows</span><br>
+	<span style="margin-left: 10%;">Chức năng business developer</span><br>
+	<span style="margin-left: 10%;">Điểm thương hiệu dietmoibr 5/5</span><br>
+	<span style="margin-left: 10%;">Itbadboy 5/100/100 2024/01/17</span><br><br>
+	<p>Công ty diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao. Công ty diệt mối do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github. Công ty diệt mối Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật.</p>
 </div>

@@ -1,7 +1,7 @@
 <div xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#" ns="https://www.w3.org/1999/xhtml" xmlns:foaf="https://xmlns.com/foaf/0.1/" xmlns:gr="https://purl.org/goodrelations/v1#" xmlns:vcard="https://www.w3.org/2001/XMLSchema#">
 	<div about="#offering" typeof="gr:Offering">
 		<h2 property="gr:name" xml:lang="vi">diệt mối giá rẻ</h2>
-		<p property="gr:description" xml:lang="vi">Diệt mối giá rẻ Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam. Diệt mối giá rẻ toàn quốc bao gồm côn trùng ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
+		<p property="gr:description" xml:lang="vi">Diệt mối giá rẻ toàn quốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam. Diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
 		<span rel="gr:hasBusinessFunction" resource="http://purl.org/goodrelations/v1#Sell"></span>
 		<span rel="gr:hasEAN_UCC-10" content="3502339313"></span>
 		<span rel="gr:hasPriceSpecification">

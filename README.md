@@ -4,6 +4,13 @@
 		<div class="Answer">
 			<p class="text">
 				Diệt mối giá rẻ (br) Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.
+				<ul>
+					<li>Có xe cơ động</li>
+					<li>Chuyên nghiệp</li>
+					<li>Phun xịt an toàn</li>
+					<li>Đào tạo thực tế</li>
+					<li>Thiết bị hiện đại</li>
+				</ul>
 				<table style="width: 100%;">
 					<tr>
 						<td style="width: 50%;">
@@ -63,4 +70,4 @@
 			</p>
 		</div>
 	</div>
-</div>
+ </div>

@@ -84,7 +84,7 @@
 		<h2 class="name">công ty diệt mối br</h2>
 		<div class="Answer">
 			<p class="text">
-				<img src="https://wiki.thuongmai.blog/images/dietmoi/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
+				<img src="https://wiki.thuongmai.blog/images/dietmoi/dietmoire.jpg" width="100%;" alt="diet moi br"/>
 				<table style="width: 100%;">
 					<tr>
 						<td style="width: 50%;">

@@ -7,8 +7,8 @@
 
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://dietmoibr.thuongmai.blog/</link>
-		<media:content url="https://www.thuongmai.blog/video/dich-vu-diet-moi.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2846483" isDefault="true">
-			<media:player url="https://www.thuongmai.blog/video/dich-vu-diet-moi.mp4" />
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2846483" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re.mp4" />
 			<media:title>Diệt mối br</media:title>
 			<media:description>Diệt mối giá rẻ (br) Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp</media:description>
 			<media:thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/dietmoire.jpg" height="1200" width="2230"/>
@@ -21,11 +21,11 @@
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://dietmoibr.thuongmai.blog/diet-moi/diet-moi-ba-ria.html</link>
-		<media:content url="https://www.thuongmai.blog/video/diet-moi-ba-ria.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2544069" isDefault="true">
-			<media:player url="https://www.thuongmai.blog/video/diet-moi-ba-ria.mp4" />
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-ba-ria.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2544069" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-ba-ria.mp4" />
 			<media:title>Bà Rịa: Diệt mối tận gốc</media:title>
 			<media:description>Diệt mối tận gốc Long Tâm Hòa Long Phước Nguyên Phước Hưng thành phố Bà Rịa</media:description>
-			<media:thumbnail url="https://www.thuongmai.blog/image/news/ba-ria.jpg" height="1200" width="1697"/>
+			<media:thumbnail url="https://wiki.thuongmai.blog/image/news/ba-ria.jpg" height="1200" width="1697"/>
 			<media:price price="0.00" currency="VND" />
 			<media:price type="subscription" />
 		</media:content>
@@ -35,11 +35,11 @@
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://dietmoibr.thuongmai.blog/diet-moi/diet-moi-vung-tau.html</link>
-		<media:content url="https://www.thuongmai.blog/video/diet-moi-vung-tau.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2723148" isDefault="true">
-			<media:player url="https://www.thuongmai.blog/video/diet-moi-vung-tau.mp4" />
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-vung-tau.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2723148" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-vung-tau.mp4" />
 			<media:title>Vũng Tàu: Diệt mối tận gốc</media:title>
 			<media:description>Diệt mối tận gốc phường 2 phường 5 phường 7 phường 8 phường 10 thành phố Vũng Tàu</media:description>
-			<media:thumbnail url="https://www.thuongmai.blog/image/news/vung-tau.jpg" height="1200" width="1697"/>
+			<media:thumbnail url="https://wiki.thuongmai.blog/image/news/vung-tau.jpg" height="1200" width="1697"/>
 			<media:price price="0.00" currency="VND" />
 			<media:price type="subscription" />
 		</media:content>
@@ -49,11 +49,11 @@
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://dietmoibr.thuongmai.blog/diet-moi/diet-moi-long-dien.html</link>
-		<media:content url="https://www.thuongmai.blog/video/diet-moi-long-dien.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2850244" isDefault="true">
-			<media:player url="https://www.thuongmai.blog/video/diet-moi-long-dien.mp4" />
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-long-dien.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2850244" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-long-dien.mp4" />
 			<media:title>Long Điền: Diệt mối tận gốc</media:title>
 			<media:description>Diệt mối tận gốc Phước Hải Long Hải huyện Long Điền</media:description>
-			<media:thumbnail url="https://www.thuongmai.blog/image/news/long-dien.jpg" height="1200" width="1697"/>
+			<media:thumbnail url="https://wiki.thuongmai.blog/image/news/long-dien.jpg" height="1200" width="1697"/>
 			<media:price price="0.00" currency="VND" />
 			<media:price type="subscription" />
 		</media:content>
@@ -63,11 +63,11 @@
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://dietmoibr.thuongmai.blog/diet-moi/diet-moi-tan-thanh.html</link>
-		<media:content url="https://www.thuongmai.blog/video/diet-moi-tan-thanh.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3083729" isDefault="true">
-			<media:player url="https://www.thuongmai.blog/video/diet-moi-tan-thanh.mp4" />
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-thanh.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3083729" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-thanh.mp4" />
 			<media:title>Tân Thành: Diệt mối tận gốc</media:title>
 			<media:description>Diệt mối tận gốc Mỹ Xuân Phú Mỹ huyện Tân Thành</media:description>
-			<media:thumbnail url="https://www.thuongmai.blog/image/news/tan-thanh.jpg" height="1200" width="1697"/>
+			<media:thumbnail url="https://wiki.thuongmai.blog/image/news/tan-thanh.jpg" height="1200" width="1697"/>
 			<media:price price="0.00" currency="VND" />
 			<media:price type="subscription" />
 		</media:content>
@@ -77,11 +77,11 @@
 	</item>
 	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<link>https://dietmoibr.thuongmai.blog/diet-moi/diet-moi-xuyen-moc.html</link>
-		<media:content url="https://www.thuongmai.blog/video/diet-moi-xuyen-moc.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3124193" isDefault="true">
-			<media:player url="https://www.thuongmai.blog/video/diet-moi-xuyen-moc.mp4" />
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-xuyen-moc.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3124193" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-xuyen-moc.mp4" />
 			<media:title>Xuyên Mộc: Diệt mối tận gốc</media:title>
 			<media:description>Diệt mối tận gốc Hồ Tràm Phước Thuận Phước Bửu huyện Xuyên Mộc</media:description>
-			<media:thumbnail url="https://www.thuongmai.blog/image/news/xuyen-moc.jpg" height="1200" width="1697"/>
+			<media:thumbnail url="https://wiki.thuongmai.blog/image/news/xuyen-moc.jpg" height="1200" width="1697"/>
 			<media:price price="0.00" currency="VND" />
 			<media:price type="subscription" />
 		</media:content>

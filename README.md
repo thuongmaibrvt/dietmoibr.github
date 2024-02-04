@@ -11,7 +11,7 @@
 								<img class="image" src="https://wiki.thuongmai.blog/images/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
 							</a>
 							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/ba-ria/index.html" title="diệt mối br" target="_blank">mối bà rịa</a></h3>
-							<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp; <i>PT4M22S</i> &nbsp; <i>10/5</i></div>
+							<div style="font-size: 10px;"><i>2024-01-28</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>11/5</i></div>
 							<p>Diệt mối Bà Rịa, Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
 						</td>
 						<td style="width: 50%;">

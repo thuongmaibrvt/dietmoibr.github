@@ -72,11 +72,13 @@
 	<div class="Answer">
 		<p class="text">
 			Diệt mối tận gốc tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.
-			- [x] Có xe cơ động
-			- [x] Chuyên nghiệp
-			- [x] Phun xịt an toàn
-			- [x] Đào tạo thực tế
-			- [x] Thiết bị hiện đại
+			<ul>
+				<li>Có xe cơ động</li>
+				<li>Chuyên nghiệp</li>
+				<li>Phun xịt an toàn</li>
+				<li>Đào tạo thực tế</li>
+				<li>Thiết bị hiện đại</li>
+			</ul>
 		</p>
 	</div>
 </div>

@@ -12,9 +12,9 @@
 					<li>Đào tạo thực tế</li>
 					<li>Thiết bị hiện đại</li>
 				</ul>
-				Diệt mối giá rẻ br phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.<br><br>
-				Diệt mối giá rẻ br Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.<br><br>
-				Diệt mối giá rẻ br do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.<br><br>
+				Diệt mối giá rẻ br phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.<br>
+				Diệt mối giá rẻ br Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.<br>
+				Diệt mối giá rẻ br do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.<br>
 				Công ty diệt mối giá rẻ br Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật.<br><br>
 				<table style="width: 100%;">
 					<tr>

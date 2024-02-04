@@ -69,18 +69,18 @@
 						</td>
 					</tr>
 				</table>
-				<div style="padding-left: 30px;">
-					<span style="margin-left: 10%;">Tư vấn nhanh +84 <a href="https://zalo.me/915550788" title="diệt mối br" target="_blank">915 550 788</a></span><br>
-					<span style="margin-left: 10%;">Thuế của công ty 3502 339 313</span><br>
-					<span style="margin-left: 10%;">Địa chỉ 111E Võ Thi Sáu Bà Rịa</span><br>
-					<span style="margin-left: 10%;">Hộp thư tư vấn dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></span><br>
-					<span style="margin-left: 10%;">Ứng dụng bing github business</span><br>
-					<span style="margin-left: 10%;">Giá trị quảng cáo tháng 3.47 đô</span><br>
-					<span style="margin-left: 10%;">Phát triển hđh linux và windows</span><br>
-					<span style="margin-left: 10%;">Chức năng business developer</span><br>
-					<span style="margin-left: 10%;">Điểm thương hiệu dietmoibr 5/5</span><br>
-					<span style="margin-left: 10%;">Itbadboy 5/100/100 2024/01/17</span>
-				</div>
+				<ul>
+					<li>Tư vấn nhanh +84 <a href="https://zalo.me/915550788" title="diệt mối br" target="_blank">915 550 788</a></li>
+					<li>Thuế của công ty 3502 339 313</li>
+					<li>Địa chỉ 111E Võ Thi Sáu Bà Rịa</li>
+					<li>Hộp thư tư vấn dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></li>
+					<li>Ứng dụng bing github business</li>
+					<li>Giá trị quảng cáo tháng 3.47 đô</li>
+					<li>Phát triển hđh linux và windows</li>
+					<li>Chức năng business developer</li>
+					<li>Điểm thương hiệu dietmoibr 5/5</li>
+					<li>Itbadboy 5/100/100 2024/01/17</li>
+				</ul>
 				Công ty diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao. Công ty diệt mối do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github. Công ty diệt mối Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật.
 			</p>
 		</div>

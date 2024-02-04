@@ -7,20 +7,20 @@
 				<table style="width: 100%;">
 					<tr>
 						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="diệt mối br" target="_blank">
+							<a href="https://www.youtube.com/watch?feature=player_embedded&v=nwxFk18Wt0s" title="diệt mối br" target="_blank">
 								<img class="image" src="https://wiki.thuongmai.blog/images/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
 							</a>
-							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/ba-ria/index.html" title="diệt mối br" target="_blank">mối bà rịa</a></h3>
-							<div style="font-size: 10px;"><i>2024-01-28</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>11/5</i></div>
-							<p>Diệt mối Bà Rịa, Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
+							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/ba-ria/index.html" title="diệt mối br" target="_blank">Bà Rịa</a></h3>
+							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M22S</i> &nbsp; <i>1/5</i></div>
+							<p>Bà Rịa, diệt mối giá rẻ Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
 						</td>
 						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=ejcavIZPrJs" title="diệt mối br" target="_blank">
+							<a href="https://www.youtube.com/watch?feature=player_embedded&v=oYC5GcwmA-A" title="diệt mối br" target="_blank">
 								<img class="image" src="https://wiki.thuongmai.blog/images/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
 							</a>
-							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/diet-moi-vung-tau.html" title="diệt mối br" target="_blank">mối vũng tàu</a></h3>
-							<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp; <i>PT4M11S</i> &nbsp; <i>10/5</i></div>
-							<p>Diệt mối Vũng Tàu, phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
+							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/vung-tau/index.html" title="diệt mối br" target="_blank">Vũng Tàu</a></h3>
+							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M11S</i> &nbsp; <i>1/5</i></div>
+							<p>Vũng Tàu, diệt mối giá rẻ phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
 						</td>
 					</tr>
 					<tr>

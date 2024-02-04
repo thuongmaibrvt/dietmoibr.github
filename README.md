@@ -64,7 +64,7 @@
 		</div>
 	</div>
 
-	<br>
+	</br>
 
 	<div class="Question cssSelector" id="#diệt-mối-tận-gốc-br">
 		<h2 class="name">diệt mối tận gốc br</h2>
@@ -82,7 +82,7 @@
 		</div>
 	</div>
 
-	<br>
+	</br>
 
 	<div class="Question cssSelector" id="#công-ty-diệt-mối-br">
 		<h2 class="name">công ty diệt mối br</h2>

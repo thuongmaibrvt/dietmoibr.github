@@ -1,63 +1,67 @@
-<div itemprop="@graph" itemscope="" itemtype="https://schema.org/Table">
-	<h2 itemprop="about">diệt mối giá rẻ</h2>
-	<p>Diệt mối giá rẻ toàn quốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam. Diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
-	<div itemprop="cssSelector" content="#tb_dietmoigiare">
-		<table style="width: 100%;" id="tb_dietmoigiare">
-			<tr>
-				<td style="width: 50%;">
-					<a href="https://www.youtube.com/watch?feature=player_embedded&v=AQO0rln5SXk" title="diệt mối br" target="_blank">
-						<img src="https://wiki.thuongmai.blog/images/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
-					</a>
-					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-ba-ria.html" title="diệt mối br" target="_blank">mối bà rịa</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M22S</i> &nbsp;&nbsp; <i>10/5</i></div>
-					<p>Diệt mối Bà Rịa, Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
-				</td>
-				<td style="width: 50%;">
-					<a href="https://www.youtube.com/watch?feature=player_embedded&v=ejcavIZPrJs" title="diệt mối br" target="_blank">
-						<img src="https://wiki.thuongmai.blog/images/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
-					</a>
-					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-vung-tau.html" title="diệt mối br" target="_blank">mối vũng tàu</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M11S</i> &nbsp;&nbsp; <i>10/5</i></div>
-					<p>Diệt mối Vũng Tàu, phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 50%;">
-					<a href="https://www.youtube.com/watch?feature=player_embedded&v=kaqghhDNTLA" title="diệt mối br" target="_blank">
-						<img src="https://wiki.thuongmai.blog/images/news/long-dien.jpg" width="100%;" alt="diet moi br"/>
-					</a>
-					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-long-dien.html" title="diệt mối br" target="_blank">mối long điền</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT5M15S</i> &nbsp;&nbsp; <i>8/5</i></div>
-					<p>Diệt mối Long Điền, An Ngãi An Nhứt Phước Hải Long Hải...</p>
-				</td>
-				<td style="width: 50%;">
-					<a href="https://www.youtube.com/watch?feature=player_embedded&v=FV41mdcNjqc" title="diệt mối br" target="_blank">
-						<img src="https://wiki.thuongmai.blog/images/news/xuyen-moc.jpg" width="100%;" alt="diet moi br"/>
-					</a>
-					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-xuyen-moc.html" title="diệt mối br" target="_blank">mối xuyên mộc</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>8/5</i></div>
-					<p>Diệt mối Xuyên Mộc, Hồ Tràm Phước Thuận Phước Bửu...</p>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 50%;">
-					<a href="https://www.youtube.com/watch?feature=player_embedded&v=Ud18SN1BC1I" title="diệt mối br" target="_blank">
-						<img src="https://wiki.thuongmai.blog/images/news/tan-thanh.jpg" width="100%;" alt="diet moi br"/>
-					</a>
-					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-thanh.html" title="diệt mối br" target="_blank">mối tân thành</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M17S</i> &nbsp;&nbsp; <i>1/5</i></div>
-					<p>Diệt mối Tân Thành, Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha...</p>
-				</td>
-				<td style="width: 50%;">
-					<a href="https://www.youtube.com/watch?feature=player_embedded&v=-z9GqrOhdzQ" title="diệt mối br" target="_blank">
-						<img src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="diet moi br"/>
-					</a>
-					<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-viet-nam.html" title="diệt mối br" target="_blank">mối việt nam</a></h3>
-					<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>1/5</i></div>
-					<p>Diệt mối Việt Nam, Đồng Nai Bình Dương TPHCM Hà Nội...</p>
-				</td>
-			</tr>
-		</table>
+<div class="FAQPage Table">
+	<div class="Question cssSelector" id="#diệt-mối-giá-rẻ">
+		<h2 class="name">diệt mối giá rẻ</h2>
+		<div class="Answer">
+			<p class="text">
+				Diệt mối giá rẻ toàn quốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam. Diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.
+				<table style="width: 100%;">
+					<tr>
+						<td style="width: 50%;">
+							<a href="https://www.youtube.com/watch?feature=player_embedded&v=AQO0rln5SXk" title="diệt mối br" target="_blank">
+								<img src="https://wiki.thuongmai.blog/images/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
+							</a>
+							<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-ba-ria.html" title="diệt mối br" target="_blank">mối bà rịa</a></h3>
+							<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M22S</i> &nbsp;&nbsp; <i>10/5</i></div>
+							<p>Diệt mối Bà Rịa, Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
+						</td>
+						<td style="width: 50%;">
+							<a href="https://www.youtube.com/watch?feature=player_embedded&v=ejcavIZPrJs" title="diệt mối br" target="_blank">
+								<img src="https://wiki.thuongmai.blog/images/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
+							</a>
+							<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-vung-tau.html" title="diệt mối br" target="_blank">mối vũng tàu</a></h3>
+							<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M11S</i> &nbsp;&nbsp; <i>10/5</i></div>
+							<p>Diệt mối Vũng Tàu, phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="width: 50%;">
+							<a href="https://www.youtube.com/watch?feature=player_embedded&v=kaqghhDNTLA" title="diệt mối br" target="_blank">
+								<img src="https://wiki.thuongmai.blog/images/news/long-dien.jpg" width="100%;" alt="diet moi br"/>
+							</a>
+							<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-long-dien.html" title="diệt mối br" target="_blank">mối long điền</a></h3>
+							<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT5M15S</i> &nbsp;&nbsp; <i>8/5</i></div>
+							<p>Diệt mối Long Điền, An Ngãi An Nhứt Phước Hải Long Hải...</p>
+						</td>
+						<td style="width: 50%;">
+							<a href="https://www.youtube.com/watch?feature=player_embedded&v=FV41mdcNjqc" title="diệt mối br" target="_blank">
+								<img src="https://wiki.thuongmai.blog/images/news/xuyen-moc.jpg" width="100%;" alt="diet moi br"/>
+							</a>
+							<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-xuyen-moc.html" title="diệt mối br" target="_blank">mối xuyên mộc</a></h3>
+							<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>8/5</i></div>
+							<p>Diệt mối Xuyên Mộc, Hồ Tràm Phước Thuận Phước Bửu...</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="width: 50%;">
+							<a href="https://www.youtube.com/watch?feature=player_embedded&v=Ud18SN1BC1I" title="diệt mối br" target="_blank">
+								<img src="https://wiki.thuongmai.blog/images/news/tan-thanh.jpg" width="100%;" alt="diet moi br"/>
+							</a>
+							<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-tan-thanh.html" title="diệt mối br" target="_blank">mối tân thành</a></h3>
+							<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT4M17S</i> &nbsp;&nbsp; <i>1/5</i></div>
+							<p>Diệt mối Tân Thành, Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha...</p>
+						</td>
+						<td style="width: 50%;">
+							<a href="https://www.youtube.com/watch?feature=player_embedded&v=-z9GqrOhdzQ" title="diệt mối br" target="_blank">
+								<img src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="diet moi br"/>
+							</a>
+							<h3><a href="https://thuongmaibrvt.github.io/dietmoibr.github/diet-moi/diet-moi-viet-nam.html" title="diệt mối br" target="_blank">mối việt nam</a></h3>
+							<div style="font-size: 10px;"><i>Dec 15, 2022</i> &nbsp;&nbsp; <i>PT3M39S</i> &nbsp;&nbsp; <i>1/5</i></div>
+							<p>Diệt mối Việt Nam, Đồng Nai Bình Dương TPHCM Hà Nội...</p>
+						</td>
+					</tr>
+				</table>
+			</p>
+		</div>
 	</div>
 </div>
 

@@ -84,14 +84,14 @@
 		<h2 class="name">công ty diệt mối br</h2>
 		<div class="Answer">
 			<p class="text">
-				<img src="https://www.thuongmai.blog/images/dietmoi/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
+				<img src="https://wiki.thuongmai.blog/images/dietmoi/phuong-nam.jpg" width="100%;" alt="diet moi br"/>
 				<table style="width: 100%;">
 					<tr>
 						<td style="width: 50%;">
-							<a href="https://www.pinterest.com/moiphuongnam/" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/images/dietmoi/logo-black.png" width="100%;" alt="diet moi br"/></a>
+							<a href="https://www.pinterest.com/moiphuongnam/" title="diệt mối br" target="_blank"><img src="https://wiki.thuongmai.blog/images/dietmoi/logo-black.png" width="100%;" alt="diet moi br"/></a>
 						</td>
 						<td style="width: 50%;">
-							<a href="https://www.youtube.com/@dietmoigianvungtau4923" title="diệt mối br" target="_blank"><img src="https://www.thuongmai.blog/images/dietmoi/logo-black.png" width="100%;" alt="diet moi br"/></a>
+							<a href="https://www.youtube.com/@dietmoigianvungtau4923" title="diệt mối br" target="_blank"><img src="https://wiki.thuongmai.blog/images/dietmoi/logo-black.png" width="100%;" alt="diet moi br"/></a>
 						</td>
 					</tr>
 				</table>

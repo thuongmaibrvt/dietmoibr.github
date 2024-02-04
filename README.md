@@ -13,6 +13,9 @@
 					<li>Thiết bị hiện đại</li>
 				</ul>
 				Diệt mối giá rẻ br phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.<br><br>
+				Diệt mối giá rẻ br Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.<br><br>
+				Diệt mối giá rẻ br do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.<br><br>
+				Công ty diệt mối giá rẻ br Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật.<br><br>
 				<table style="width: 100%;">
 					<tr>
 						<td style="width: 50%;">
@@ -69,21 +72,6 @@
 						</td>
 					</tr>
 				</table>
-				Diệt mối giá rẻ br Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.<br><br>
-				Diệt mối giá rẻ br do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.<br><br>
-				<ul>
-					<li>Tư vấn nhanh +84 <a href="https://zalo.me/915550788" title="diệt mối br" target="_blank">915 550 788</a></li>
-					<li>Thuế của công ty 3502 339 313</li>
-					<li>Địa chỉ 111E Võ Thi Sáu Bà Rịa</li>
-					<li>Hộp thư tư vấn dịch vụ <a href="mailto:dietmoigianvungtau@gmail.com" title="diệt mối br" target="_blank">diệt mối</a></li>
-					<li>Ứng dụng bing github business</li>
-					<li>Giá trị quảng cáo tháng 3.47 đô</li>
-					<li>Phát triển hđh linux và windows</li>
-					<li>Chức năng business developer</li>
-					<li>Điểm thương hiệu dietmoibr 5/5</li>
-					<li>Itbadboy 5/100/100 2024/01/17</li>
-				</ul>				
-				Công ty diệt mối giá rẻ br Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật.
 			</p>
 		</div>
 	</div>

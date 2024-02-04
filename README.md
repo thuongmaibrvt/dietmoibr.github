@@ -1,5 +1,5 @@
 <div class="FAQPage Table">
-	<div class="Question cssSelector" id="#diệt-mối-giá-rẻ">
+	<div class="Question cssSelector" id="#diệt-mối-giá-rẻ-br">
 		<h2 class="name">diệt mối giá rẻ br</h2>
 		<div class="Answer">
 			<p class="text">
@@ -67,13 +67,19 @@
 
 <br>
 
-## diệt mối tận gốc br
-<p>Diệt mối tận gốc tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
-- [x] Có xe cơ động
-- [x] Chuyên nghiệp
-- [x] Phun xịt an toàn
-- [x] Đào tạo thực tế
-- [x] Thiết bị hiện đại
+<div class="Question cssSelector" id="#diệt-mối-giá-rẻ-br">
+	<h2 class="name">diệt mối tận gốc br</h2>
+	<div class="Answer">
+		<p class="text">
+			Diệt mối tận gốc tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.
+			- [x] Có xe cơ động
+			- [x] Chuyên nghiệp
+			- [x] Phun xịt an toàn
+			- [x] Đào tạo thực tế
+			- [x] Thiết bị hiện đại
+		</p>
+	</div>
+</div>
 
 <br>
 

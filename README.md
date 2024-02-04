@@ -63,70 +63,7 @@
 			</p>
 		</div>
 	</div>
-	<div class="Question cssSelector" id="#diệt-mối-giá-rẻ-br">
-		<h2 class="name">diệt mối giá rẻ br</h2>
-		<div class="Answer">
-			<p class="text">
-				Diệt mối giá rẻ (br) Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.
-				<table style="width: 100%;">
-					<tr>
-						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=nwxFk18Wt0s" title="diệt mối br" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
-							</a>
-							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/ba-ria/index.html" title="diệt mối br" target="_blank">Bà Rịa</a></h3>
-							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M22S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Bà Rịa, diệt mối giá rẻ Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
-						</td>
-						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=oYC5GcwmA-A" title="diệt mối br" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
-							</a>
-							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/vung-tau/index.html" title="diệt mối br" target="_blank">Vũng Tàu</a></h3>
-							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M11S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Vũng Tàu, diệt mối giá rẻ phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=NdnM76vA60c" title="diệt mối br" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/long-dien.jpg" width="100%;" alt="diet moi br"/>
-							</a>
-							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/long-dien/index.html" title="diệt mối br" target="_blank">Long Điền</a></h3>
-							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT5M15S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Long Điền, diệt mối giá rẻ An Ngãi An Nhứt Phước Hải Long Hải...</p>
-						</td>
-						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=HcvvQ1VttEk" title="diệt mối br" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/xuyen-moc.jpg" width="100%;" alt="diet moi br"/>
-							</a>
-							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/xuyen-moc/index.html" title="diệt mối br" target="_blank">Xuyên Mộc</a></h3>
-							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT3M39S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Xuyên Mộc, diệt mối giá rẻ Hồ Tràm Phước Thuận Phước Bửu...</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=MUwK7OgAGaI" title="diệt mối br" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/tan-thanh.jpg" width="100%;" alt="diet moi br"/>
-							</a>
-							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/tan-thanh/index.html" title="diệt mối br" target="_blank">Tân Thành</a></h3>
-							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M17S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Tân Thành, diệt mối giá rẻ Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha...</p>
-						</td>
-						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=5QEjyIOQnLY" title="diệt mối br" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="diet moi br"/>
-							</a>
-							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/viet-nam/index.html" title="diệt mối br" target="_blank">Việt Nam</a></h3>
-							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT5M50S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Việt Nam, diệt mối giá rẻ Đồng Nai Bình Dương TPHCM Hà Nội...</p>
-						</td>
-					</tr>
-				</table>
-			</p>
-		</div>
-	</div>
+
 	<div class="Question cssSelector" id="#diệt-mối-tận-gốc-br">
 		<h2 class="name">diệt mối tận gốc br</h2>
 		<div class="Answer">

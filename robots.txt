@@ -1,7 +1,8 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thuongmaibrvt.github.io/dietmoibr.github/newsmap.xml
-Sitemap: https://thuongmaibrvt.github.io/dietmoibr.github/google-video.xml
-Sitemap: https://thuongmaibrvt.github.io/dietmoibr.github/bing-video.xml
-Sitemap: https://thuongmaibrvt.github.io/dietmoibr.github/podcast.xml
+Sitemap: https://dietmoibr.thuongmai.blog/newsmap.xml
+Sitemap: https://dietmoibr.thuongmai.blog/google-video.xml
+Sitemap: https://dietmoibr.thuongmai.blog/bing-video.xml
+Sitemap: https://dietmoibr.thuongmai.blog/podcast.xml
+Sitemap: https://dietmoibr.thuongmai.blog/channel.xml

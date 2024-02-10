@@ -19,8 +19,8 @@
 				<news:name>dietmoibr</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-02-07</news:publication_date>
-			<news:title>Diệt mối rẻ toàn quốc</news:title>
+			<news:publication_date>2024-02-08</news:publication_date>
+			<news:title>Diet moi br: Diệt mối rẻ</news:title>
 			<news:keywords>diet moi re,diệt mối rẻ</news:keywords>
 		</news:news>
 	</url>
@@ -31,9 +31,33 @@
 				<news:name>dietmoibr</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-02-07</news:publication_date>
-			<news:title>Diệt mối tận gốc</news:title>
+			<news:publication_date>2024-02-08</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc</news:title>
 			<news:keywords>diet moi tan goc,diệt mối tận gốc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-re-biet-thu-anh-tinh-long-tam.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-10</news:publication_date>
+			<news:title>Diet moi br: Diệt mối rẻ biệt thự Long Tâm</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,long tam,long tâm</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-tan-goc-ba-ria-biet-thu-long-tam.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-10</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc biệt thự Long Tâm</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,long tam,long tâm</news:keywords>
 		</news:news>
 	</url>
 </urlset>

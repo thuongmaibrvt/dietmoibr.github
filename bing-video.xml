@@ -22,5 +22,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc biệt thự Long Tâm</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-tan-goc-ba-ria-biet-thu-long-tam.html</link>
+		<pubDate>Sat, 10 Feb 2024 12:36:23 PST</pubDate>
+		<description>Diệt mối tận gốc Bà Rịa biệt thự anh Tình Long Tâm Phương Nam đảm bảo an toàn triệt để lên tất cả tài sản cùng giải pháp phòng mối thực tế như phun xịt thuốc chống mối trong ngoài biệt thự, xử lý phòng chống mối chân tường cầu thang lên các tầng biệt thự, chống mối mặt sàn các phòng biệt thự và xử lý chống mối khuôn viên rộng lớn trong biệt thự... trước khi đi vào hoạt động</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-biet-thu-anh-tinh.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="88" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/baria/biet-thu-anh-tinh-long-tam.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Bà Rịa biệt thự anh Tình Long Tâm</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-biet-thu-anh-tinh.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

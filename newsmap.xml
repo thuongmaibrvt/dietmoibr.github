@@ -84,4 +84,28 @@
 			<news:keywords>diet moi tan goc,diệt mối tận gốc,phuoc nguyen,phước nguyên</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-re-san-bong-scg-phuoc-hung.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-11</news:publication_date>
+			<news:title>Diet moi br: Diệt mối rẻ sân bóng Phước Hưng</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,phuoc hung,phước hưng</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-tan-goc-ba-ria-san-bong-phuoc-hung.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-11</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc sân bóng Phước Hưng</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,phuoc hung,phước hưng</news:keywords>
+		</news:news>
+	</url>
 </urlset>

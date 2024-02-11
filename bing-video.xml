@@ -37,5 +37,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc nhà lầu Phước Nguyên</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-tan-goc-ba-ria-nha-lau-phuoc-nguyen.html</link>
+		<pubDate>Sun, 11 Feb 2024 08:06:23 PST</pubDate>
+		<description>Diệt mối tận gốc Bà Rịa nhà lầu chị Nghĩa Phước Nguyên Phương Nam kiểm soát 100% các loại mối hạn chế tối đa khả năng tái phát từ cửa bếp cửa sổ hẻm hông cùng 2 sân trước sau nhà, chuyên viên tư vấn có kinh nghiệm kiến thức rất tận tâm và chi phí dịch vụ cạnh tranh cho gia đình chị Nghĩa</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-nha-lau-chi-nghia.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="316" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/baria/nha-chi-nghia-phuoc-nguyen.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Bà Rịa nhà lầu chị Nghĩa Phước Nguyên</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-nha-lau-chi-nghia.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

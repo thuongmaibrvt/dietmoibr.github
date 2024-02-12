@@ -82,5 +82,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc Bà Rịa</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-tan-goc-ba-ria.html</link>
+		<pubDate>Mon, 12 Feb 2024 18:22:23 PST</pubDate>
+		<description>Diệt mối tận gốc Bà Rịa Phương Nam phòng chống bảo vệ biệt thự nhà kho nhà lầu sân bóng Long Tâm Phước Nguyên Phước Hưng Hòa Long</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-ba-ria.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/news/ba-ria.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Bà Rịa</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-ba-ria.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

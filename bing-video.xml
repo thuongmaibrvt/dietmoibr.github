@@ -67,5 +67,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc nhà kho Hòa Long</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-tan-goc-ba-ria-nha-kho-hoa-long.html</link>
+		<pubDate>Mon, 12 Feb 2024 08:56:23 PST</pubDate>
+		<description>Diệt mối tận gốc Bà Rịa nhà kho anh Thiên Hòa Long Phương Nam kiểm soát 100% các loại mối hạn chế tối đa khả năng tái phát từ các khe rãnh mái nhà phòng khách nhà bếp đặc biệt nhà anh Thiên thuộc dạng khung gỗ lâu năm bao phủ có diện tích rộng lớn</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-nha-kho-anh-thien.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="114" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/baria/nha-anh-thien-hoa-long.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Bà Rịa nhà kho anh Thiên Hòa Long</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-ba-ria-nha-kho-anh-thien.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

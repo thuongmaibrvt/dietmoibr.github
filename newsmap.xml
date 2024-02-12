@@ -108,4 +108,28 @@
 			<news:keywords>diet moi tan goc,diệt mối tận gốc,phuoc hung,phước hưng</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-re-nha-kho-anh-thien-hoa-long.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-12</news:publication_date>
+			<news:title>Diet moi br: Diệt mối rẻ nhà kho Hòa Long</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,hoa long,hòa long</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-tan-goc-ba-ria-nha-kho-hoa-long.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-12</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc nhà kho Hòa Long</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,hoa long,hòa long</news:keywords>
+		</news:news>
+	</url>
 </urlset>

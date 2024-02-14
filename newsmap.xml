@@ -180,4 +180,28 @@
 			<news:keywords>diet moi tan goc,diệt mối tận gốc,phuoc thuan,phước thuận</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/xuyenmoc/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-14</news:publication_date>
+			<news:title>Diet moi br: Xuyên Mộc</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,xuyen moc,xuyên mộc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/xuyenmoc/diet-moi-tan-goc-xuyen-moc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-14</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc Xuyên Mộc</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,xuyen moc,xuyên mộc</news:keywords>
+		</news:news>
+	</url>
 </urlset>

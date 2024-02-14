@@ -30,7 +30,7 @@
 							<a href="https://www.youtube.com/watch?feature=player_embedded&v=oYC5GcwmA-A" title="diệt mối br" target="_blank">
 								<img class="image" src="https://wiki.thuongmai.blog/images/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
 							</a>
-							<h3><a href="https://dietmoibr.thuongmai.blog/diet-moi/vung-tau/index.html" title="diệt mối br" target="_blank">Vũng Tàu</a></h3>
+							<h3><a href="dietmoi/vungtau/diet-moi-tan-goc-vung-tau.html" title="diệt mối br" target="_blank">Vũng Tàu</a></h3>
 							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M11S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
 							<p>Vũng Tàu, diệt mối giá rẻ phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
 						</td>

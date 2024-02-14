@@ -112,5 +112,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc Xuyên Mộc</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/xuyenmoc/diet-moi-tan-goc-xuyen-moc.html</link>
+		<pubDate>Wed, 14 Feb 2024 08:23:23 PST</pubDate>
+		<description>Diệt mối tận gốc Xuyên Mộc Phương Nam phòng chống bảo vệ biệt thự nhà hàng khách sạn sòng bài Hồ Tràm Phước Thuận</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-xuyen-moc.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/news/xuyen-moc.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Xuyên Mộc</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-xuyen-moc.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

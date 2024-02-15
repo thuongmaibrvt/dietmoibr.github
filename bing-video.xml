@@ -127,5 +127,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc nhà bếp Phước Hải</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/longdien/diet-moi-tan-goc-long-dien-nha-bep-phuoc-hai.html</link>
+		<pubDate>Wed, 15 Feb 2024 11:20:23 PST</pubDate>
+		<description>Diệt mối tận gốc Long Điền nhà bếp cô 6 Phước Hải Phương Nam kiểm soát 100% các loại mối hạn chế tối đa khả năng tái phát, chuyên viên tư vấn có kinh nghiệm kiến thức rất tận tâm và chi phí dịch vụ cạnh tranh cho gia đình cô 6</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien-nha-bep-co-6.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="103" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/longdien/tim-kiem-cac-to-moi-tu-bep-nha-co-6-phuoc-hai.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Long Điền nhà bếp cô 6 Phước Hải</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien-nha-bep-co-6.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

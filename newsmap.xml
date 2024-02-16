@@ -276,4 +276,28 @@
 			<news:keywords>diet moi tan goc,diệt mối tận gốc,long dien,long điền</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-re-khach-san-rubi-p2.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-16</news:publication_date>
+			<news:title>Diet moi br: Diệt mối rẻ khách sạn p2</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,p2</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-tan-goc-vung-tau-khach-san-p2.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-16</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc khách sạn p2</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,p2</news:keywords>
+		</news:news>
+	</url>
 </urlset>

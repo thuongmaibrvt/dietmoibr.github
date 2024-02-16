@@ -252,4 +252,28 @@
 			<news:keywords>diet moi tan goc,diệt mối tận gốc,long hai,long hải</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/longdien/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-16</news:publication_date>
+			<news:title>Diet moi br: Long Điền</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,long dien,long điền</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/longdien/diet-moi-tan-goc-long-dien.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-16</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc Long Điền</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,long dien,long điền</news:keywords>
+		</news:news>
+	</url>
 </urlset>

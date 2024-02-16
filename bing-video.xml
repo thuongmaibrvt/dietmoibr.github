@@ -157,5 +157,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc Long Điền</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/longdien/diet-moi-tan-goc-long-dien.html</link>
+		<pubDate>Fri, 16 Feb 2024 10:52:23 PST</pubDate>
+		<description>Diệt mối tận gốc Long Điền Phương Nam phòng chống bảo vệ biệt thự nhà bếp nhà hàng khách sạn Phước Hải Long Hải</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/news/long-dien.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Long Điền</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

@@ -142,5 +142,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc nhà hàng Long Hải</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/longdien/diet-moi-tan-goc-long-dien-nha-hang-long-hai.html</link>
+		<pubDate>Fri, 16 Feb 2024 09:04:23 PST</pubDate>
+		<description>Diệt mối tận gốc Long Điền nhà hàng Hải Đông Long Hải Phương Nam kiểm soát với đội ngũ nhân viên được tham gia các khóa đào tạo nâng cấp năng lực thường xuyên tập huấn thực tế đảm bảo an toàn sức khỏe cho dân địa phương và khách du lịch đến thưởng thức ẩm thực biển tại nhà hàng</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien-nha-hang-hai-dong.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="191" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/longdien/nha-hang-hai-dong-long-hai.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Long Điền nhà hàng Hải Đông Long Hải</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien-nha-hang-hai-dong.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

@@ -300,4 +300,28 @@
 			<news:keywords>diet moi tan goc,diệt mối tận gốc,p2</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-re-biet-thu-toan-hao-p5.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-17</news:publication_date>
+			<news:title>Diet moi br: Diệt mối rẻ biệt thự p5</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,p5</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-tan-goc-vung-tau-biet-thu-p5.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-17</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc biệt thự p5</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,p5</news:keywords>
+		</news:news>
+	</url>
 </urlset>

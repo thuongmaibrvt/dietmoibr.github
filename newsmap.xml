@@ -324,4 +324,28 @@
 			<news:keywords>diet moi tan goc,diệt mối tận gốc,p5</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-re-nha-hang-maxim-p7.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-17</news:publication_date>
+			<news:title>Diet moi br: Diệt mối rẻ nhà hàng p7</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,p7</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-tan-goc-vung-tau-nha-hang-p7.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-17</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc nhà hàng p7</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,p7</news:keywords>
+		</news:news>
+	</url>
 </urlset>

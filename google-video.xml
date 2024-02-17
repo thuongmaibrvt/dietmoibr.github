@@ -159,4 +159,32 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-16T10:50:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-tan-goc-vung-tau-khach-san-p2.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-muoi-re-vung-tau-khach-san-rubi.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="146" fileSize="11340261" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-muoi-re-vung-tau-khach-san-rubi.mp4" />
+			<media:title>Diet moi br: Diệt mối tận gốc khách sạn p2</media:title>
+			<media:description>Diệt mối tận gốc Vũng Tàu khách sạn Rubi p2 Phương Nam kiểm soát bằng phương pháp xử lý tận gốc an toàn hiệu quả 2 khu vực sân thượng kiêm nhà hàng cà phê 4 dãy bàn đảm bảo không gian ngắm cảnh thoáng mát và thưởng thức ẩm thực sạch sẽ cho du khách khi đến với khách sạn Rubi tại phường 2 tỉnh BRVT</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/vungtau/khach-san-rubi-phuong-2.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-17T09:11:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-tan-goc-vung-tau-biet-thu-p5.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-muoi-re-vung-tau-biet-thu-toan-hao.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="85" fileSize="7080281" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-muoi-re-vung-tau-biet-thu-toan-hao.mp4" />
+			<media:title>Diet moi br: Diệt mối tận gốc biệt thự p5</media:title>
+			<media:description>Diệt mối tận gốc Vũng Tàu biệt thự Toàn Hảo p5 bằng phương pháp xử lý tận gốc Phương Nam kiểm soát an toàn hiệu quả phòng ngủ lối thoát hiểm sân vườn cổng trước và 2 bên hông hẻm trái phải đảm bảo không gian sống sạch sẽ cho biệt thự Toàn Hảo tại phường 5 tỉnh BRVT</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/vungtau/biet-thu-toan-hao-phuong-5-san-vuon.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-17T09:14:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </rss>

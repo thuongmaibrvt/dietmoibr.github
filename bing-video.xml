@@ -172,5 +172,35 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc khách sạn p2</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-tan-goc-vung-tau-khach-san-p2.html</link>
+		<pubDate>Sat, 17 Feb 2024 09:15:23 PST</pubDate>
+		<description>Diệt mối tận gốc Vũng Tàu khách sạn Rubi p2 Phương Nam kiểm soát bằng phương pháp xử lý tận gốc an toàn hiệu quả 2 khu vực sân thượng kiêm nhà hàng cà phê 4 dãy bàn đảm bảo không gian ngắm cảnh thoáng mát và thưởng thức ẩm thực sạch sẽ cho du khách khi đến với khách sạn Rubi tại phường 2 tỉnh BRVT</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-muoi-re-vung-tau-khach-san-rubi.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="146" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/vungtau/khach-san-rubi-phuong-2.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Vũng Tàu</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-muoi-re-vung-tau-khach-san-rubi.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc biệt thự p5</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-tan-goc-vung-tau-biet-thu-p5.html</link>
+		<pubDate>Sat, 17 Feb 2024 09:17:23 PST</pubDate>
+		<description>Diệt mối tận gốc Vũng Tàu biệt thự Toàn Hảo p5 bằng phương pháp xử lý tận gốc Phương Nam kiểm soát an toàn hiệu quả phòng ngủ lối thoát hiểm sân vườn cổng trước và 2 bên hông hẻm trái phải đảm bảo không gian sống sạch sẽ cho biệt thự Toàn Hảo tại phường 5 tỉnh BRVT</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-muoi-re-vung-tau-biet-thu-toan-hao.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="85" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/vungtau/biet-thu-toan-hao-phuong-5-san-vuon.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Vũng Tàu</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-muoi-re-vung-tau-biet-thu-toan-hao.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

@@ -202,5 +202,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc nhà hàng p7</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-tan-goc-vung-tau-nha-hang-p7.html</link>
+		<pubDate>Sat, 17 Feb 2024 11:13:23 PST</pubDate>
+		<description>Diệt mối tận gốc Vũng Tàu nhà hàng Maxim p7 Phương Nam với đội ngũ nhân viên được tham gia các khóa đào tạo nâng cấp năng lực thường xuyên tập huấn thực tế đảm bảo quá trình xử lý an toàn 2 bên sảnh trái phải, bục lễ cưới và kho bếp</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-vung-tau-nha-hang-maxim.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="115" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/vungtau/nha-hang-maxim-phuong-7-sanh-trai.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Vũng Tàu</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-vung-tau-nha-hang-maxim.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

@@ -232,5 +232,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc nhà lầu p10</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/vungtau/diet-moi-tan-goc-vung-tau-nha-lau-p10.html</link>
+		<pubDate>Sat, 18 Feb 2024 08:29:23 PST</pubDate>
+		<description>Diệt mối tận gốc Vũng Tàu nhà lầu anh Bình p10 Phương Nam dựa vào kết quả khảo sát chu vi khuôn viên và nhu cầu thực tế của chị Thủy phường 8 tỉnh BRVT sẽ tiến hành công đoạn thực thi xử lý</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-vung-tau-nha-lau-anh-binh.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="161" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/vungtau/nha-anh-binh-phuong-10-vung-tau-tang-lau.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Vũng Tàu</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-vung-tau-nha-lau-anh-binh.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

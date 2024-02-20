@@ -243,5 +243,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-18T13:36:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/tanthanh/diet-moi-tan-goc-tan-thanh-biet-thu-my-xuan.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-biet-thu-anh-doan.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="343" fileSize="23930459" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-biet-thu-anh-doan.mp4" />
+			<media:title>Diet moi br: Diệt mối tận gốc biệt thự Mỹ Xuân</media:title>
+			<media:description>Diệt mối tận gốc Tân Thành biệt thự anh Đoàn Mỹ Xuân được Phương Nam kiểm soát bằng tiến trình xử lý tận gốc an toàn hiệu quả trong ngoài cho biệt thự của anh Đoàn tại Mỹ Xuân thị trấn Phú Mỹ</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/news/tan-thanh.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-20T09:29:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>

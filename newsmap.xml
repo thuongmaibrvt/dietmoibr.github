@@ -468,4 +468,28 @@
 			<news:keywords>diet moi tan goc,diệt mối tận gốc,my xuan,mỹ xuân</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/tanthanh/diet-moi-re-nha-bep-anh-hoang-phu-my.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-21</news:publication_date>
+			<news:title>Diet moi br: Diệt mối rẻ nhà bếp Phú Mỹ</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,phu my,phú mỹ</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/tanthanh/diet-moi-tan-goc-tan-thanh-nha-bep-phu-my.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-21</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc nhà bếp Phú Mỹ</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,phu my,phú mỹ</news:keywords>
+		</news:news>
+	</url>
 </urlset>

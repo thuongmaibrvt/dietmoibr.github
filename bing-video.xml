@@ -268,11 +268,26 @@
 		<pubDate>Sat, 20 Feb 2024 09:34:23 PST</pubDate>
 		<description>Diệt mối tận gốc Tân Thành biệt thự anh Đoàn Mỹ Xuân được Phương Nam kiểm soát bằng tiến trình xử lý tận gốc an toàn hiệu quả trong ngoài cho biệt thự của anh Đoàn tại Mỹ Xuân thị trấn Phú Mỹ</description>
 		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-biet-thu-anh-doan.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="343" />
-		<thumbnail url="https://wiki.thuongmai.blog/images/news/tan-thanh.jpg" width="2230" height="1200"/>
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/tanthanh/phong-moi-san-vuon-biet-thu-anh-doan-my-xuan.jpg" width="2230" height="1200"/>
 		<keywords>diệt mối tận gốc Tân Thành</keywords>
 		<category>Services</category>
 		<viewCount>1</viewCount>
 		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-biet-thu-anh-doan.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc cty Mỹ Xuân</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/tanthanh/diet-moi-tan-goc-tan-thanh-cty-my-xuan.html</link>
+		<pubDate>Wed, 21 Feb 2024 08:35:23 PST</pubDate>
+		<description>Diệt mối tận gốc Tân Thành cty Thái Bình Dương Mỹ Xuân Phương Nam kiểm soát với đội ngũ nhân viên được tham gia các khóa đào tạo nâng cấp năng lực thường xuyên tập huấn thực tế đảm bảo an toàn sức khỏe cho nhân viên an ninh văn phòng, giáo viên quản lý học viên trong suốt quá trình dạy học thực tập sinh hoạt chuyên ngành dầu khí cùng với cư dân khu vực Hắc Dịch Mỹ Xuân</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-cty-thai-binh-duong.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="150" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/tanthanh/cty-thai-binh-duong-my-xuan.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Tân Thành</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-cty-thai-binh-duong.mp4</embedHtml>
 		<restriction relationship="allow" type="country">VN US SG</restriction>
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>

@@ -271,5 +271,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-21T08:34:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/tanthanh/diet-moi-tan-goc-tan-thanh-nha-bep-phu-my.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-nha-bep-anh-hoang.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="75" fileSize="6744985" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-nha-bep-anh-hoang.mp4" />
+			<media:title>Diet moi br: Diệt mối tận gốc nhà bếp Phú Mỹ</media:title>
+			<media:description>Diệt mối rẻ Tân Thành nhà bếp anh Hoàng Phú Mỹ Phương Nam kiểm soát 100% các loại mối hạn chế tối đa khả năng tái phát lên gầm tủ kệ bếp đồ dùng gỗ trong ngoài nhà bếp, chuyên viên tư vấn có kinh nghiệm kiến thức xử lý tình huống nhà bếp đã bị mối rất tận tâm và chi phí dịch vụ cạnh tranh cho gia đình anh Hoàng</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/tanthanh/diet-moi-tu-go-nha-anh-hoang-phu-my.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-21T13:52:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>

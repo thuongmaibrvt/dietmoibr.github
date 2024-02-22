@@ -307,5 +307,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diet moi br: Diệt mối tận gốc cà phê vườn Mỹ Xuân</title>
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/tanthanh/diet-moi-tan-goc-tan-thanh-ca-phe-vuon-my-xuan.html</link>
+		<pubDate>Thu, 22 Feb 2024 09:57:23 PST</pubDate>
+		<description>Diệt mối tận gốc Tân Thành cà phê vườn anh Hiền Mỹ Xuân Phương Nam kiểm soát 100% các loại mối hạn chế tối đa khả năng tái phát đặc biệt nhà anh Hiền thuộc dạng kinh doanh cà phê sân vườn có nhà sàn rộng lớn với quầy pha chế quầy tính tiền tất cả đều sử dụng gỗ lâu năm</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-ca-phe-vuon-anh-hien.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="105" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/tanthanh/nha-san-go-anh-hien-my-xuan-day-cafe.jpg" width="2230" height="1200"/>
+		<keywords>diệt mối tận gốc Tân Thành</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-ca-phe-vuon-anh-hien.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>

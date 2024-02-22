@@ -299,5 +299,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-22T09:56:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://dietmoibr.thuongmai.blog/dietmoi/tanthanh/diet-moi-tan-goc-tan-thanh-nha-lau-phu-my.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-nha-lau-anh-tuan.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="189" fileSize="12736144" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh-nha-lau-anh-tuan.mp4" />
+			<media:title>Diet moi br: Diệt mối tận gốc nhà lầu Phú Mỹ</media:title>
+			<media:description>Diệt mối tận gốc nhà lầu Phú Mỹ Phương Nam kiểm soát dựa vào kết quả khảo sát chu vi khuôn viên và nhu cầu thực tế của anh Tuấn xã Phú Mỹ huyện công nghiệp Tân Thành sẽ tiến hành công đoạn thực thi xử lý</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/tanthanh/phun-chong-moi-nha-anh-tuan-phu-my-tuong-ngoai.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-22T12:07:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>

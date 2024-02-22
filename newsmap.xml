@@ -492,4 +492,28 @@
 			<news:keywords>diet moi tan goc,diệt mối tận gốc,phu my,phú mỹ</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/tanthanh/diet-moi-re-ca-phe-vuon-anh-hien-my-xuan.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-21</news:publication_date>
+			<news:title>Diet moi br: Diệt mối rẻ cà phê vườn Mỹ Xuân</news:title>
+			<news:keywords>diet moi re,diệt mối rẻ,my xuan,mỹ xuân</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/tanthanh/diet-moi-tan-goc-tan-thanh-ca-phe-vuon-my-xuan.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-21</news:publication_date>
+			<news:title>Diet moi br: Diệt mối tận gốc cà phê vườn Mỹ Xuân</news:title>
+			<news:keywords>diet moi tan goc,diệt mối tận gốc,my xuan,mỹ xuân</news:keywords>
+		</news:news>
+	</url>
 </urlset>

@@ -2,7 +2,7 @@
 	<div class="Question cssSelector" id="#diệt-mối-giá-rẻ-br">
 		<h2 class="name">diệt mối giá rẻ br</h2>
 		<div class="Answer">
-			<p class="text">
+			<div class="text">
 				<img src="https://wiki.thuongmai.blog/images/dietmoi/dietmoire.jpg" width="100%" height="350px" alt="diet moi br"/><br><br>
 				Diệt mối giá rẻ (br) Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.
 				<ul>
@@ -72,7 +72,7 @@
 						</td>
 					</tr>
 				</table>
-			</p>
+			</div>
 		</div>
 	</div>
 </div>

@@ -3,7 +3,7 @@
 		<h1 class="name">Diệt mối Long Tâm</h1>
 		<div class="Answer">
 			<div class="text">
-				<img src="https://wiki.thuongmai.blog/images/dietmoi/baria/biet-thu-anh-tinh-long-tam.jpg" width="100%" height="350px" alt="diet moi ba ria"/><br>
+				<img src="https://wiki.thuongmai.blog/images/dietmoi/baria/biet-thu-anh-tinh-long-tam.jpg" width="100%" height="350px" alt="diet moi long tam"/><br>
 				<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div><br>
 				Diệt mối Long Tâm Bà Rịa tại biệt thự anh Tình Phương Nam đảm bảo an toàn triệt để lên tất cả tài sản cùng giải pháp phòng mối thực tế như phun xịt thuốc chống mối trong ngoài biệt thự, xử lý phòng chống mối chân tường cầu thang lên các tầng biệt thự, chống mối mặt sàn các phòng biệt thự và xử lý chống mối khuôn viên rộng lớn trong biệt thự... trước khi đi vào hoạt động.<br><br>
 				<ul>
@@ -17,10 +17,10 @@
 				<table style="width: 100%;">
 					<tr>
 						<td style="width: 50%;">
-							<img class="image" src="https://wiki.thuongmai.blog/images/dietmoi/baria/chong-moi-nen-biet-thu-anh-tinh-long-tam.jpg" width="100%;" alt="diet moi ba ria"/>
+							<img class="image" src="https://wiki.thuongmai.blog/images/dietmoi/baria/chong-moi-nen-biet-thu-anh-tinh-long-tam.jpg" width="100%;" alt="diet moi long tam"/>
 						</td>
 						<td style="width: 50%;">
-							<img class="image" src="https://wiki.thuongmai.blog/images/dietmoi/baria/chong-moi-phong-biet-thu-anh-tinh-long-tam.jpg" width="100%;" alt="diet moi ba ria"/>
+							<img class="image" src="https://wiki.thuongmai.blog/images/dietmoi/baria/chong-moi-phong-biet-thu-anh-tinh-long-tam.jpg" width="100%;" alt="diet moi long tam"/>
 						</td>
 					</tr>
 				</table>

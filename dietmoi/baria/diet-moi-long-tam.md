@@ -1,5 +1,5 @@
 <div class="FAQPage Table">
-	<div class="Question cssSelector" id="#diệt-mối-bà-rịa">
+	<div class="Question cssSelector" id="#diệt-mối-long-tâm">
 		<h1 class="name">Diệt mối Long Tâm</h1>
 		<div class="Answer">
 			<div class="text">

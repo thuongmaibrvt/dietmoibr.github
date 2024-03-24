@@ -17,53 +17,29 @@
 					<tr>
 						<td style="width: 50%;">
 							<img class="image" src="https://wiki.thuongmai.blog/images/dietmoi/baria/biet-thu-anh-tinh-long-tam.jpg" width="100%;" alt="diet moi ba ria"/>
-							<h2><a href="dietmoi/baria/diet-moi-tan-goc-ba-ria-biet-thu-long-tam.html" title="diệt mối bà rịa" target="_blank">Long Tâm</a></h2>
+							<h2><a href="diet-moi-tan-goc-ba-ria-biet-thu-long-tam.html" title="diệt mối bà rịa" target="_blank">Long Tâm</a></h2>
 							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
-							<p>Bà Rịa, diệt mối giá rẻ Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
+							<p>Diệt mối Bà Rịa tại biệt thự anh Tình Long Tâm.</p>
 						</td>
 						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=oYC5GcwmA-A" title="diệt mối bà rịa" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/vung-tau.jpg" width="100%;" alt="diet moi ba ria"/>
-							</a>
-							<h2><a href="dietmoi/vungtau/diet-moi-tan-goc-vung-tau.html" title="diệt mối bà rịa" target="_blank">Vũng Tàu</a></h2>
+							<img class="image" src="https://wiki.thuongmai.blog/images/dietmoi/baria/nha-chi-nghia-phuoc-nguyen.jpg" width="100%;" alt="diet moi ba ria"/>
+							<h2><a href="diet-moi-tan-goc-ba-ria-nha-lau-phuoc-nguyen.html" title="diệt mối bà rịa" target="_blank">Phước Nguyên</a></h2>
 							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
-							<p>Vũng Tàu, diệt mối giá rẻ phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
+							<p>Diệt mối Bà Rịa tại nhà lầu chị Nghĩa Phước Nguyên.</p>
 						</td>
 					</tr>
 					<tr>
 						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=NdnM76vA60c" title="diệt mối bà rịa" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/long-dien.jpg" width="100%;" alt="diet moi ba ria"/>
-							</a>
-							<h2><a href="dietmoi/longdien/diet-moi-tan-goc-long-dien.html" title="diệt mối bà rịa" target="_blank">Long Điền</a></h2>
+							<img class="image" src="https://wiki.thuongmai.blog/images/dietmoi/baria/diet-moi-san-bong-scg-phuoc-hung.jpg" width="100%;" alt="diet moi ba ria"/>
+							<h2><a href="diet-moi-tan-goc-ba-ria-san-bong-phuoc-hung.html" title="diệt mối bà rịa" target="_blank">Phước Hưng</a></h2>
 							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
-							<p>Long Điền, diệt mối giá rẻ An Ngãi An Nhứt Phước Hải Long Hải...</p>
+							<p>Diệt mối Bà Rịa tại sân bóng SCG Phước Hưng.</p>
 						</td>
 						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=HcvvQ1VttEk" title="diệt mối bà rịa" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/xuyen-moc.jpg" width="100%;" alt="diet moi ba ria"/>
-							</a>
-							<h2><a href="dietmoi/xuyenmoc/diet-moi-tan-goc-xuyen-moc.html" title="diệt mối bà rịa" target="_blank">Xuyên Mộc</a></h2>
+							<img class="image" src="https://wiki.thuongmai.blog/images/dietmoi/baria/nha-anh-thien-hoa-long.jpg" width="100%;" alt="diet moi ba ria"/>
+							<h2><a href="diet-moi-tan-goc-ba-ria-nha-kho-hoa-long.html" title="diệt mối bà rịa" target="_blank">Hòa Long</a></h2>
 							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
-							<p>Xuyên Mộc, diệt mối giá rẻ Hồ Tràm Phước Thuận Phước Bửu...</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=MUwK7OgAGaI" title="diệt mối bà rịa" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/tan-thanh.jpg" width="100%;" alt="diet moi ba ria"/>
-							</a>
-							<h2><a href="dietmoi/tanthanh/diet-moi-tan-goc-tan-thanh.html" title="diệt mối bà rịa" target="_blank">Tân Thành</a></h2>
-							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
-							<p>Tân Thành, diệt mối giá rẻ Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao...</p>
-						</td>
-						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=5QEjyIOQnLY" title="diệt mối bà rịa" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="diet moi ba ria"/>
-							</a>
-							<h2><a href="dietmoi/vietnam/diet-moi-tan-goc-viet-nam.html" title="diệt mối bà rịa" target="_blank">Việt Nam</a></h2>
-							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
-							<p>Việt Nam, diệt mối giá rẻ Đồng Nai Bình Dương TPHCM Hà Nội...</p>
+							<p>Diệt mối Bà Rịa tại nhà kho anh Thiên Hòa Long.</p>
 						</td>
 					</tr>
 				</table>

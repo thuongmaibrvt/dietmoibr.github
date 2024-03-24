@@ -1,6 +1,6 @@
 <div class="FAQPage Table">
 	<div class="Question cssSelector" id="#diệt-mối-giá-rẻ-br">
-		<h2 class="name">diệt mối giá rẻ br</h2>
+		<h1 class="name">diệt mối giá rẻ br</h1>
 		<div class="Answer">
 			<div class="text">
 				<img src="https://wiki.thuongmai.blog/images/dietmoi/dietmoire.jpg" width="100%" height="350px" alt="diet moi br"/><br><br>

@@ -39,11 +39,11 @@
 							<div style="font-size: 10px;"><i>2024-03-25</i> &nbsp; <i>dietmoibr</i> &nbsp; <i>100/100/5</i></div>
 							<p>
 								<ul>
-									<li><a href="dietmoi/vungtau/diet-moi-p2.md" title="diệt mối br" target="_blank">phường 2</a></li>
-									<li><a href="dietmoi/vungtau/diet-moi-p5.md" title="diệt mối br" target="_blank">phường 5</a></li>
-									<li><a href="dietmoi/vungtau/diet-moi-p7.md" title="diệt mối br" target="_blank">phường 7</a></li>
-									<li><a href="dietmoi/vungtau/diet-moi-p8.md" title="diệt mối br" target="_blank">phường 8</a></li>
-									<li><a href="dietmoi/vungtau/diet-moi-p10.md" title="diệt mối br" target="_blank">phường 10</a></li>
+									<li><a href="dietmoi/vungtau/diet-moi-p2.md" title="diệt mối br" target="_blank">Phường 2</a></li>
+									<li><a href="dietmoi/vungtau/diet-moi-p5.md" title="diệt mối br" target="_blank">Phường 5</a></li>
+									<li><a href="dietmoi/vungtau/diet-moi-p7.md" title="diệt mối br" target="_blank">Phường 7</a></li>
+									<li><a href="dietmoi/vungtau/diet-moi-p8.md" title="diệt mối br" target="_blank">Phường 8</a></li>
+									<li><a href="dietmoi/vungtau/diet-moi-p10.md" title="diệt mối br" target="_blank">Phường 10</a></li>
 								</ul>
 								Diệt mối Vũng Tàu phường 7 phường 8 phường 10 Rạch Dừa Gò Găng... giá rẻ.
 							</p>

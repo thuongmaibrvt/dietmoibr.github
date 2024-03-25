@@ -24,7 +24,7 @@
 							</a>
 							<h3><a href="dietmoi/baria/diet-moi-ba-ria.md" title="diệt mối br" target="_blank">Bà Rịa</a></h3>
 							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M22S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Bà Rịa, diệt mối giá rẻ Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
+							<p>Diệt mối Bà Rịa Long Tâm Phước Nguyên Phước Hưng Hòa Long... giá rẻ.</p>
 						</td>
 						<td style="width: 50%;">
 							<a href="https://www.youtube.com/watch?feature=player_embedded&v=oYC5GcwmA-A" title="diệt mối br" target="_blank">
@@ -32,7 +32,7 @@
 							</a>
 							<h3><a href="dietmoi/vungtau/diet-moi-vung-tau.md" title="diệt mối br" target="_blank">Vũng Tàu</a></h3>
 							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M11S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Vũng Tàu, diệt mối giá rẻ phường 7 phường 8 phường 10 Rạch Dừa Gò Găng...</p>
+							<p>Diệt mối Vũng Tàu phường 7 phường 8 phường 10 Rạch Dừa Gò Găng... giá rẻ.</p>
 						</td>
 					</tr>
 					<tr>
@@ -42,7 +42,7 @@
 							</a>
 							<h3><a href="dietmoi/longdien/diet-moi-long-dien.md" title="diệt mối br" target="_blank">Long Điền</a></h3>
 							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT5M15S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Long Điền, diệt mối giá rẻ An Ngãi An Nhứt Phước Hải Long Hải...</p>
+							<p>Diệt mối Long Điền An Ngãi An Nhứt Phước Hải Long Hải... giá rẻ.</p>
 						</td>
 						<td style="width: 50%;">
 							<a href="https://www.youtube.com/watch?feature=player_embedded&v=HcvvQ1VttEk" title="diệt mối br" target="_blank">
@@ -50,7 +50,7 @@
 							</a>
 							<h3><a href="dietmoi/xuyenmoc/diet-moi-xuyen-moc.md" title="diệt mối br" target="_blank">Xuyên Mộc</a></h3>
 							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT3M39S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Xuyên Mộc, diệt mối giá rẻ Hồ Tràm Phước Thuận Phước Bửu...</p>
+							<p>Diệt mối Xuyên Mộc Hồ Tràm Phước Thuận Phước Bửu... giá rẻ.</p>
 						</td>
 					</tr>
 					<tr>
@@ -60,7 +60,7 @@
 							</a>
 							<h3><a href="dietmoi/tanthanh/diet-moi-tan-thanh.md" title="diệt mối br" target="_blank">Tân Thành</a></h3>
 							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M17S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Tân Thành, diệt mối giá rẻ Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao...</p>
+							<p>Diệt mối Tân Thành Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao... giá rẻ.</p>
 						</td>
 						<td style="width: 50%;">
 							<a href="https://www.youtube.com/watch?feature=player_embedded&v=5QEjyIOQnLY" title="diệt mối br" target="_blank">
@@ -68,7 +68,7 @@
 							</a>
 							<h3><a href="dietmoi/vietnam/diet-moi-viet-nam.md" title="diệt mối br" target="_blank">Việt Nam</a></h3>
 							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT5M50S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
-							<p>Việt Nam, diệt mối giá rẻ Đồng Nai Bình Dương TPHCM Hà Nội...</p>
+							<p>Diệt mối Việt Nam Đồng Nai Bình Dương TPHCM Hà Nội... giá rẻ.</p>
 						</td>
 					</tr>
 				</table>

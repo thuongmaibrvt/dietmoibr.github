@@ -22,7 +22,7 @@
 							<a href="https://www.youtube.com/watch?feature=player_embedded&v=nwxFk18Wt0s" title="diệt mối br" target="_blank">
 								<img class="image" src="https://wiki.thuongmai.blog/images/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
 							</a>
-							<h3><a href="dietmoi/baria/diet-moi-tan-goc-ba-ria.html" title="diệt mối br" target="_blank">Bà Rịa</a></h3>
+							<h3><a href="diet-moi-ba-ria.md" title="diệt mối br" target="_blank">Bà Rịa</a></h3>
 							<div style="font-size: 10px;"><i>2024-01-26</i> &nbsp; <i>PT4M22S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>1/5</i></div>
 							<p>Bà Rịa, diệt mối giá rẻ Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
 						</td>

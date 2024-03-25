@@ -28,6 +28,7 @@
 									<li><a href="dietmoi/baria/diet-moi-phuoc-nguyen.md" title="diệt mối br" target="_blank">Phước Nguyên</a></li>
 									<li><a href="dietmoi/baria/diet-moi-phuoc-hung.md" title="diệt mối br" target="_blank">Phước Hưng</a></li>
 									<li><a href="dietmoi/baria/diet-moi-hoa-long.md" title="diệt mối br" target="_blank">Hòa Long</a></li>
+									<li></li>
 								</ul>
 								Diệt mối Bà Rịa Long Tâm Phước Nguyên Phước Hưng Hòa Long... giá rẻ.
 							</p>
@@ -36,7 +37,16 @@
 							<img class="image" src="https://wiki.thuongmai.blog/images/news/vung-tau.jpg" width="100%;" alt="diet moi br"/>
 							<h3><a href="dietmoi/vungtau/diet-moi-vung-tau.md" title="diệt mối br" target="_blank">Vũng Tàu</a></h3>
 							<div style="font-size: 10px;"><i>2024-03-25</i> &nbsp; <i>dietmoibr</i> &nbsp; <i>100/100/5</i></div>
-							<p>Diệt mối Vũng Tàu phường 7 phường 8 phường 10 Rạch Dừa Gò Găng... giá rẻ.</p>
+							<p>
+								<ul>
+									<li><a href="dietmoi/vungtau/diet-moi-p2.md" title="diệt mối br" target="_blank">phường 2</a></li>
+									<li><a href="dietmoi/vungtau/diet-moi-p5.md" title="diệt mối br" target="_blank">phường 5</a></li>
+									<li><a href="dietmoi/vungtau/diet-moi-p7.md" title="diệt mối br" target="_blank">phường 7</a></li>
+									<li><a href="dietmoi/vungtau/diet-moi-p8.md" title="diệt mối br" target="_blank">phường 8</a></li>
+									<li><a href="dietmoi/vungtau/diet-moi-p10.md" title="diệt mối br" target="_blank">phường 10</a></li>
+								</ul>
+								Diệt mối Vũng Tàu phường 7 phường 8 phường 10 Rạch Dừa Gò Găng... giá rẻ.
+							</p>
 						</td>
 					</tr>
 					<tr>

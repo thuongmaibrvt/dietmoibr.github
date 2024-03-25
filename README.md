@@ -54,15 +54,25 @@
 							<img class="image" src="https://wiki.thuongmai.blog/images/news/long-dien.jpg" width="100%;" alt="diet moi br"/>
 							<h3><a href="dietmoi/longdien/diet-moi-long-dien.md" title="diệt mối br" target="_blank">Long Điền</a></h3>
 							<div style="font-size: 10px;"><i>2024-03-25</i> &nbsp; <i>dietmoibr</i> &nbsp; <i>100/100/5</i></div>
-							<p>Diệt mối Long Điền An Ngãi An Nhứt Phước Hải Long Hải... giá rẻ.</p>
+							<p>
+								<ul>
+									<li><a href="dietmoi/longdien/diet-moi-phuoc-hai.md" title="diệt mối br" target="_blank">Phước Hải</a></li>
+									<li><a href="dietmoi/longdien/diet-moi-long-hai.md" title="diệt mối br" target="_blank">Long Hải</a></li>
+								</ul>
+								Diệt mối Long Điền An Ngãi An Nhứt Phước Hải Long Hải... giá rẻ.
+							</p>
 						</td>
 						<td style="width: 50%;">
-							<a href="https://www.youtube.com/watch?feature=player_embedded&v=HcvvQ1VttEk" title="diệt mối br" target="_blank">
-								<img class="image" src="https://wiki.thuongmai.blog/images/news/xuyen-moc.jpg" width="100%;" alt="diet moi br"/>
-							</a>
+							<img class="image" src="https://wiki.thuongmai.blog/images/news/xuyen-moc.jpg" width="100%;" alt="diet moi br"/>
 							<h3><a href="dietmoi/xuyenmoc/diet-moi-xuyen-moc.md" title="diệt mối br" target="_blank">Xuyên Mộc</a></h3>
 							<div style="font-size: 10px;"><i>2024-03-25</i> &nbsp; <i>dietmoibr</i> &nbsp; <i>100/100/5</i></div>
-							<p>Diệt mối Xuyên Mộc Hồ Tràm Phước Thuận Phước Bửu... giá rẻ.</p>
+							<p>
+								<ul>
+									<li><a href="dietmoi/xuyenmoc/diet-moi-phuoc-thuan.md" title="diệt mối br" target="_blank">Phước Thuận</a></li>
+									<li></li>
+								</ul>
+								Diệt mối Xuyên Mộc Hồ Tràm Phước Thuận Phước Bửu... giá rẻ.
+							</p>
 						</td>
 					</tr>
 					<tr>
@@ -70,7 +80,13 @@
 							<img class="image" src="https://wiki.thuongmai.blog/images/news/tan-thanh.jpg" width="100%;" alt="diet moi br"/>
 							<h3><a href="dietmoi/tanthanh/diet-moi-tan-thanh.md" title="diệt mối br" target="_blank">Tân Thành</a></h3>
 							<div style="font-size: 10px;"><i>2024-03-25</i> &nbsp; <i>dietmoibr</i> &nbsp; <i>100/100/5</i></div>
-							<p>Diệt mối Tân Thành Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao... giá rẻ.</p>
+							<p>
+								<ul>
+									<li><a href="dietmoi/tanthanh/diet-moi-my-xuan.md" title="diệt mối br" target="_blank">Mỹ Xuân</a></li>
+									<li><a href="dietmoi/tanthanh/diet-moi-phu-my.md" title="diệt mối br" target="_blank">Phú Mỹ</a></li>
+								</ul>
+								Diệt mối Tân Thành Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao... giá rẻ.
+							</p>
 						</td>
 						<td style="width: 50%;"></td>
 					</tr>

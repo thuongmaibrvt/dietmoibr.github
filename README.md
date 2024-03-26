@@ -20,14 +20,14 @@
 					<tr>
 						<td style="width: 50%;">
 							<img class="image" src="https://wiki.thuongmai.blog/images/news/ba-ria.jpg" width="100%;" alt="diet moi br"/>
-							<h3><a href="dietmoi/baria/diet-moi-ba-ria.md" title="diệt mối br" target="_blank">Bà Rịa</a></h3>
+							<h3><a href="https://github.com/thuongmaibrvt/dietmoibr.github/blob/main/dietmoi/baria/diet-moi-ba-ria.md" title="diệt mối br" target="_blank">Bà Rịa</a></h3>
 							<div style="font-size: 10px;"><i>2024-03-25</i> &nbsp; <i>dietmoibr</i> &nbsp; <i>100/100/5</i></div>
 							<p>
 								<ul>
-									<li><a href="dietmoi/baria/diet-moi-long-tam.md" title="diệt mối br" target="_blank">Long Tâm</a></li>
-									<li><a href="dietmoi/baria/diet-moi-phuoc-nguyen.md" title="diệt mối br" target="_blank">Phước Nguyên</a></li>
-									<li><a href="dietmoi/baria/diet-moi-phuoc-hung.md" title="diệt mối br" target="_blank">Phước Hưng</a></li>
-									<li><a href="dietmoi/baria/diet-moi-hoa-long.md" title="diệt mối br" target="_blank">Hòa Long</a></li>
+									<li><a href="https://github.com/thuongmaibrvt/dietmoibr.github/blob/main/dietmoi/baria/diet-moi-long-tam.md" title="diệt mối br" target="_blank">Long Tâm</a></li>
+									<li><a href="https://github.com/thuongmaibrvt/dietmoibr.github/blob/main/dietmoi/baria/diet-moi-phuoc-nguyen.md" title="diệt mối br" target="_blank">Phước Nguyên</a></li>
+									<li><a href="https://github.com/thuongmaibrvt/dietmoibr.github/blob/main/dietmoi/baria/diet-moi-phuoc-hung.md" title="diệt mối br" target="_blank">Phước Hưng</a></li>
+									<li><a href="https://github.com/thuongmaibrvt/dietmoibr.github/blob/main/dietmoi/baria/diet-moi-hoa-long.md" title="diệt mối br" target="_blank">Hòa Long</a></li>
 									<li></li>
 								</ul>
 								Diệt mối Bà Rịa Long Tâm Phước Nguyên Phước Hưng Hòa Long... giá rẻ.

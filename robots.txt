@@ -2,7 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://dietmoibr.thuongmai.blog/newsmap.xml
-Sitemap: https://dietmoibr.thuongmai.blog/google-video.xml
-Sitemap: https://dietmoibr.thuongmai.blog/bing-video.xml
 Sitemap: https://dietmoibr.thuongmai.blog/podcast.xml
-Sitemap: https://dietmoibr.thuongmai.blog/channel.xml

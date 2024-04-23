@@ -3,7 +3,6 @@
 		<h1 class="name">Diệt mối Bà Rịa</h1>
 		<div class="Answer">
 			<div class="text">
-				<img src="https://wiki.thuongmai.blog/images/f/f9/512-baria.jpg" width="100%" height="350px" alt="diet moi ba ria"/><br><br>
 				Diệt mối Bà Rịa Phương Nam phòng chống bảo vệ biệt thự nhà kho nhà lầu sân bóng Long Tâm Phước Nguyên Phước Hưng Hòa Long.<br><br>
 				<ul>
 					<li>Long Tâm</li>

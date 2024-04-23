@@ -17,13 +17,13 @@
 						<td style="width: 50%;">
 							<img class="image" src="https://wiki.thuongmai.blog/images/6/69/Logo-biet-thu-anh-tinh-long-tam.jpg" width="100%;" alt="diet moi ba ria"/>
 							<h2><a href="diet-moi-long-tam.md" title="diệt mối bà rịa" target="_blank">Long Tâm</a></h2>
-							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
+							<div style="font-size: 10px;"><i>2024-04-23</i> &nbsp; <i>5/5</i> &nbsp; <i>dietmoibr</i></div>
 							<p>Diệt mối Bà Rịa tại biệt thự anh Tình Long Tâm.</p>
 						</td>
 						<td style="width: 50%;">
 							<img class="image" src="https://wiki.thuongmai.blog/images/d/d3/Logo-nha-chi-nghia-phuoc-nguyen.jpg" width="100%;" alt="diet moi ba ria"/>
 							<h2><a href="diet-moi-phuoc-nguyen.md" title="diệt mối bà rịa" target="_blank">Phước Nguyên</a></h2>
-							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
+							<div style="font-size: 10px;"><i>2024-04-23</i> &nbsp; <i>5/5</i> &nbsp; <i>dietmoibr</i></div>
 							<p>Diệt mối Bà Rịa tại nhà lầu chị Nghĩa Phước Nguyên.</p>
 						</td>
 					</tr>
@@ -31,13 +31,13 @@
 						<td style="width: 50%;">
 							<img class="image" src="https://wiki.thuongmai.blog/images/a/ad/Logo-san-van-dong-scg-phuoc-hung.jpg" width="100%;" alt="diet moi ba ria"/>
 							<h2><a href="diet-moi-phuoc-hung.md" title="diệt mối bà rịa" target="_blank">Phước Hưng</a></h2>
-							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
+							<div style="font-size: 10px;"><i>2024-04-23</i> &nbsp; <i>5/5</i> &nbsp; <i>dietmoibr</i></div>
 							<p>Diệt mối Bà Rịa tại sân bóng SCG Phước Hưng.</p>
 						</td>
 						<td style="width: 50%;">
 							<img class="image" src="https://wiki.thuongmai.blog/images/4/47/Logo-nha-go-anh-thien-hoa-long.jpg" width="100%;" alt="diet moi ba ria"/>
 							<h2><a href="diet-moi-hoa-long.md" title="diệt mối bà rịa" target="_blank">Hòa Long</a></h2>
-							<div style="font-size: 10px;"><i>2024-03-24</i> &nbsp; <i>1/5</i> &nbsp; <i>dietmoibr</i></div>
+							<div style="font-size: 10px;"><i>2024-04-23</i> &nbsp; <i>5/5</i> &nbsp; <i>dietmoibr</i></div>
 							<p>Diệt mối Bà Rịa tại nhà kho anh Thiên Hòa Long.</p>
 						</td>
 					</tr>

@@ -6,18 +6,24 @@
 	Diệt mối biệt thự nhà lầu nhà kho sân bóng Bà Rịa 09:00-17:00 và 08:00-16:00 chủ nhật.<br><br>
 	<table style="width: 100%;" class="table_dietmoibaria" property="cssSelector" content=".table_dietmoibaria">
 		<tr>
+			<td style="width: 25%;"></td>
 			<td style="width: 50%;">
 				<img class="image" src="https://wiki.thuongmai.blog/images/6/69/Logo-biet-thu-anh-tinh-long-tam.jpg" width="100%;" alt="diet moi ba ria"/>
 				<h2>Long Tâm</h2>
 				<div style="font-size: 10px;"><i>2024-04-27</i> &nbsp; <i>dietmoibr</i></div>
 				<p>Diệt mối Bà Rịa tại biệt thự mới xây anh Tình <a href="https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-ba-ria-biet-thu-long-tam.html" title="diệt mối bà rịa" target="_blank">Long Tâm</a>.</p>
 			</td>
+			<td style="width: 25%;"></td>
+		</tr>
+		<tr>
+			<td style="width: 25%;"></td>
 			<td style="width: 50%;">
 				<img class="image" src="https://wiki.thuongmai.blog/images/d/d3/Logo-nha-chi-nghia-phuoc-nguyen.jpg" width="100%;" alt="diet moi ba ria"/>
 				<h2>Phước Nguyên</h2>
 				<div style="font-size: 10px;"><i>2024-04-27</i> &nbsp; <i>dietmoibr</i></div>
 				<p>Diệt mối Bà Rịa tại nhà lầu chị Nghĩa <a href="https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-ba-ria-nha-lau-phuoc-nguyen.html" title="diệt mối bà rịa" target="_blank">Phước Nguyên</a>.</p>
 			</td>
+			<td style="width: 25%;"></td>
 		</tr>
 		<tr>
 			<td style="width: 50%;">

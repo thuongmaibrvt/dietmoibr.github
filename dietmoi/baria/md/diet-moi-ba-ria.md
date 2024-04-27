@@ -26,18 +26,24 @@
 			<td style="width: 25%;"></td>
 		</tr>
 		<tr>
+			<td style="width: 25%;"></td>
 			<td style="width: 50%;">
 				<img class="image" src="https://wiki.thuongmai.blog/images/a/ad/Logo-san-van-dong-scg-phuoc-hung.jpg" width="100%;" alt="diet moi ba ria"/>
 				<h2>Phước Hưng</h2>
 				<div style="font-size: 10px;"><i>2024-04-27</i> &nbsp; <i>dietmoibr</i></div>
 				<p>Diệt mối Bà Rịa tại sân bóng SCG <a href="https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-ba-ria-san-bong-phuoc-hung.html" title="diệt mối bà rịa" target="_blank">Phước Hưng</a>.</p>
 			</td>
+			<td style="width: 25%;"></td>
+		</tr>
+		<tr>
+			<td style="width: 25%;"></td>
 			<td style="width: 50%;">
 				<img class="image" src="https://wiki.thuongmai.blog/images/4/47/Logo-nha-go-anh-thien-hoa-long.jpg" width="100%;" alt="diet moi ba ria"/>
 				<h2>Hòa Long</h2>
 				<div style="font-size: 10px;"><i>2024-04-27</i> &nbsp; <i>dietmoibr</i></div>
 				<p>Diệt mối Bà Rịa tại nhà kho anh Thiên <a href="https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-ba-ria-nha-kho-hoa-long.html" title="diệt mối bà rịa" target="_blank">Hòa Long</a>.</p>
 			</td>
+			<td style="width: 25%;"></td>
 		</tr>
 	</table>
 </div>

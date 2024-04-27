@@ -4,8 +4,8 @@
 	<ul><li>Long Tâm</li><li>Phước Nguyên</li><li>Phước Hưng</li><li>Hòa Long</li></ul>
 	Diệt mối Bà Rịa tư duy năng động lời nói uy tín công nghệ an toàn giá rẻ hợp lý.<br>
 	Diệt mối biệt thự nhà lầu nhà kho sân bóng Bà Rịa 09:00-17:00 và 08:00-16:00 chủ nhật.<br><br>
-	<table style="width: 100%;" class="table_dietmoibaria" property="cssSelector" content=".table_dietmoibaria">
-		<tr width="100%">
+	<table style="width: 100%; max-width: 100%;" class="table_dietmoibaria" property="cssSelector" content=".table_dietmoibaria">
+		<tr>
 			<td style="width: 25%;"></td>
 			<td style="width: 50%;">
 				<img class="image" src="https://wiki.thuongmai.blog/images/6/69/Logo-biet-thu-anh-tinh-long-tam.jpg" width="100%;" alt="diet moi ba ria"/>
@@ -15,7 +15,7 @@
 			</td>
 			<td style="width: 25%;"></td>
 		</tr>
-		<tr width="100%">
+		<tr>
 			<td style="width: 25%;"></td>
 			<td style="width: 50%;">
 				<img class="image" src="https://wiki.thuongmai.blog/images/d/d3/Logo-nha-chi-nghia-phuoc-nguyen.jpg" width="100%;" alt="diet moi ba ria"/>
@@ -25,7 +25,7 @@
 			</td>
 			<td style="width: 25%;"></td>
 		</tr>
-		<tr width="100%">
+		<tr>
 			<td style="width: 25%;"></td>
 			<td style="width: 50%;">
 				<img class="image" src="https://wiki.thuongmai.blog/images/a/ad/Logo-san-van-dong-scg-phuoc-hung.jpg" width="100%;" alt="diet moi ba ria"/>
@@ -35,7 +35,7 @@
 			</td>
 			<td style="width: 25%;"></td>
 		</tr>
-		<tr width="100%">
+		<tr>
 			<td style="width: 25%;"></td>
 			<td style="width: 50%;">
 				<img class="image" src="https://wiki.thuongmai.blog/images/4/47/Logo-nha-go-anh-thien-hoa-long.jpg" width="100%;" alt="diet moi ba ria"/>

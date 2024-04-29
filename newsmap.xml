@@ -48,4 +48,28 @@
 			<news:keywords>Diệt mối Phước Nguyên, Diet moi Phuoc Nguyen</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-hoa-long-ba-ria-amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-04-29</news:publication_date>
+			<news:title>Diệt mối Bà Rịa phòng chống mái nhà bếp phòng khách Hòa Long</news:title>
+			<news:keywords>Diệt mối Hòa Long, Diet moi Hoa Long</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-phuoc-hung-ba-ria-amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-04-29</news:publication_date>
+			<news:title>Diệt mối Bà Rịa phòng chống sảnh phòng sân bóng Phước Hưng</news:title>
+			<news:keywords>Diệt mối Phước Hưng, Diet moi Phuoc Hung</news:keywords>
+		</news:news>
+	</url>
 </urlset>

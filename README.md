@@ -8,6 +8,13 @@
 > Đào tạo thực tế.<br/>
 > Thiết bị hiện đại.
 
+<table style="width: 100%; border: none;">
+<tr>
+	<td style="width: 49%; border: none;"><img src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"></img></td>
+	<td style="width: 2%; border: none;"></td>
+	<td style="width: 49%; border: none;"><p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p></td>
+</tr>
+</table>
 <p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
 <p>Diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.</p>
 <p>Diệt mối do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.</p>

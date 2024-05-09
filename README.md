@@ -1,7 +1,5 @@
 ## Diệt mối&nbsp;&nbsp;&nbsp;[![Diệt mối](https://dietmoibr.thuongmai.blog/image/pinterest.png "Pinterest")](https://www.pinterest.com/moiphuongnam/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://dietmoibr.thuongmai.blog/image/youtube.png "Youtube")](https://www.youtube.com/@dietmoigianvungtau4923)
 
-<p>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
-
 > Có xe cơ động.<br/>
 > Chuyên nghiệp.<br/>
 > Phun xịt an toàn.<br/>
@@ -12,7 +10,7 @@
 <tr>
 	<td style="width: 49%; border: none;"><img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"></img></td>
 	<td style="width: 2%; border: none;"></td>
-	<td style="width: 49%; border: none;"><p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p></td>
+	<td style="width: 49%; border: none;"><p>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p><blockquote>Có xe cơ động. </br>Chuyên nghiệp. </br>Phun xịt an toàn. </br>Đào tạo thực tế. </br>Thiết bị hiện đại.</blockquote></td>
 </tr>
 </table>
 <p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>

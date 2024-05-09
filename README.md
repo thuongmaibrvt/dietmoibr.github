@@ -4,7 +4,7 @@
 	<td style="width: 50%;"><div style="text-align: center;">
 		<img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"></img><p><span>Có xe cơ động.</span></br><span>Chuyên nghiệp.</span></br><span>Phun xịt an toàn.</span></br><span>Đào tạo thực tế.</span></br><span>Thiết bị hiện đại.</span></p>
 	</div></td>
-	<td style="width: 50%;"><div style="padding-left: 1%;">
+	<td style="width: 50%;"><div>
 		<p>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
 		<p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
 		<p>Diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.</p>

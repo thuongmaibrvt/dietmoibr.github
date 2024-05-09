@@ -15,8 +15,8 @@
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
-### công nghệ đám mây&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://dietmoibr.thuongmai.blog/image/awesome.svg "Oracle Vietnam")](https://www.oracle.com/vn/)
-<p>Công nghệ đám mây Oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây Oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.</p>
+## Diệt mối Bà Rịa&nbsp;&nbsp;&nbsp;[![Diệt mối Bà Rịa](https://dietmoibr.thuongmai.blog/image/pinterest.png "Pinterest")](https://www.pinterest.com/moiphuongnam/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://dietmoibr.thuongmai.blog/image/youtube.png "Youtube")](https://www.youtube.com/@dietmoigianvungtau4923)
+<p>Diệt mối Bà Rịa Phương Nam phòng chống bảo vệ biệt thự nhà kho nhà lầu sân bóng Long Tâm Phước Nguyên Phước Hưng Hòa Long tận gốc.</p>
 
 > điều hành Linux CenOS v7.<br/>
 > ổ cứng 100GB 48MB/s x2.<br/>

@@ -5,9 +5,15 @@
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
 	<td style="width: 30%;"><div>
-		<img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"/><span>0915.55-07-88 hoặc 0987.22-00-14</span>
+		<img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"/>
 	</div></td>
 	<td style="width: 70%;"><div>
+		> điều hành Linux CenOS v7.<br/>
+		> ổ cứng 100GB 48MB/s x2.<br/>
+		> AMD-V 32-core 1996MHz.<br/>
+		> <a href="https://wiki.thuongmai.blog/" title="itvtbadboy" target="_blank">bách khoa</a> tri thức v1.39.6.<br/>
+		> máy chủ apache cân bằng.<br/>
+		> <a href="https://wiki.thuongmai.blog/amp/thuong-mai-di-dong.amp.html" title="itvtbadboy" target="_blank">di động</a> top news amp dev.
 	</div></td>
 </tr>
 </table>

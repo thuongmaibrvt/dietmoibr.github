@@ -4,13 +4,13 @@
 <p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
-	<td style="width: 25%;"><img style="width: 25%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png" alt="diet moi"/></td>
 	<td style="width: 75%;">
 		<span>Vũ Văn Tiến (giám đốc)</span></br>
 		<span><a href="https://zalo.me/869202254" title="Diệt mối" target="_blank">84 915-550-788</a> (tư vấn)</span></br>
 		<span>3502 339 313 (mã thuế)</span></br>
 		<span>111E Võ Thi Sáu (trụ sở)</span>
 	</td>
+	<td style="width: 25%;"><img style="width: 25%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png" alt="diet moi"/></td>
 </tr>
 </table>
 <p>Diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.</p>

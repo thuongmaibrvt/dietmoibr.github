@@ -8,8 +8,7 @@
 		<p>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
 		<p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
 		<p>Diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.</p>
-		<p>Diệt mối Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật.</p>
-		<p>Diệt mối do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.</p>
+		<p>Diệt mối Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật, thương hiệu diệt mối vận hành trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.</p>
 	</div></td>
 </tr>
 </table>

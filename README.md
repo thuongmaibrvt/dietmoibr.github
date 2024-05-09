@@ -5,14 +5,14 @@
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
 	<td style="width: 30%;"><div>
-		<img style="width: 50%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"/>
+		<img style="width: 50%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png" alt="diet moi"/>
 	</div></td>
 	<td style="width: 70%;"><div>
-		<span>Trang <a href="https://dietmoire.thuongmai.blog/" title="Diệt mối" target="_blank">cửa hàng</a></span>
-		<span>Vũ Văn Tiến (giám đốc)</span>
-		<span><a href="https://zalo.me/869202254" title="Diệt mối" target="_blank">84 915-550-788</a> (tư vấn)</span>
-		<span>3502 339 313 (mã thuế)</span>
-		<span>111E Võ Thi Sáu (trụ sở)</span>
+		<span>Trang <a href="https://dietmoire.thuongmai.blog/" title="Diệt mối" target="_blank">cửa hàng</a></span></br>
+		<span>Vũ Văn Tiến (giám đốc)</span></br>
+		<span><a href="https://zalo.me/869202254" title="Diệt mối" target="_blank">84 915-550-788</a> (tư vấn)</span></br>
+		<span>3502 339 313 (mã thuế)</span></br>
+		<span>111E Võ Thi Sáu (trụ sở)</span></br>
 		<span></span>
 	</div></td>
 </tr>
@@ -34,18 +34,18 @@
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
 	<td style="width: 50%;"><div>
-		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/6/69/Logo-biet-thu-anh-tinh-long-tam.jpg"/>
+		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/6/69/Logo-biet-thu-anh-tinh-long-tam.jpg" alt="diet moi"/>
 	</div></td>
 	<td style="width: 50%;"><div>
-		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/d/d3/Logo-nha-chi-nghia-phuoc-nguyen.jpg"/>
+		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/d/d3/Logo-nha-chi-nghia-phuoc-nguyen.jpg" alt="diet moi"/>
 	</div></td>
 </tr>
 <tr>
 	<td style="width: 50%;"><div>
-		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/6/69/Logo-biet-thu-anh-tinh-long-tam.jpg"/>
+		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/6/69/Logo-biet-thu-anh-tinh-long-tam.jpg" alt="diet moi"/>
 	</div></td>
 	<td style="width: 50%;"><div>
-		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/d/d3/Logo-nha-chi-nghia-phuoc-nguyen.jpg"/>
+		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/d/d3/Logo-nha-chi-nghia-phuoc-nguyen.jpg" alt="diet moi"/>
 	</div></td>
 </tr>
 </table>

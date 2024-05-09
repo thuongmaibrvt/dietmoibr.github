@@ -10,7 +10,7 @@
 
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
-	<td style="width: 49%; border: none;"><img style="width: 49%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"></img></td>
+	<td style="width: 49%; border: none;"><img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"></img></td>
 	<td style="width: 2%; border: none;"></td>
 	<td style="width: 49%; border: none;"><p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p></td>
 </tr>

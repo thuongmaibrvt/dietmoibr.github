@@ -3,7 +3,7 @@
 <p>Diệt mối toàn quốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, dịch vụ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
 <p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
 <table style="width: 100%; border: none; font-size: 18px;">
-<tr>
+<tr style="width: 100%;">
 	<td style="width: 25%;"><img style="width: 216px; height: 216px;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png" alt="diet moi"/></td>
 	<td style="width: 75%;">
 		<span>Vũ Văn Tiến (giám đốc)</span></br>

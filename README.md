@@ -2,19 +2,12 @@
 
 <p>Diệt mối toàn quốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, dịch vụ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
 <p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
-<table style="width: 100%; border: none; font-size: 18px;">
-<tr>
-	<td><div style="width: 25%;">
-		<img style="width: 100%; height: 216px;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png" alt="diet moi"/>
-	</div></td>
-	<td style="width: 75%;">
-		<span>Vũ Văn Tiến (giám đốc)</span></br>
-		<span><a href="https://zalo.me/869202254" title="Diệt mối" target="_blank">84 915-550-788</a> (tư vấn)</span></br>
-		<span>3502 339 313 (mã thuế)</span></br>
-		<span>111E Võ Thi Sáu (trụ sở)</span>
-	</td>
-</tr>
-</table>
+<blockquote>
+	<span>Vũ Văn Tiến (giám đốc)</span></br>
+	<span><a href="https://zalo.me/869202254" title="Diệt mối" target="_blank">84 915-550-788</a> (tư vấn)</span></br>
+	<span>3502 339 313 (mã thuế)</span></br>
+	<span>111E Võ Thi Sáu (trụ sở)</span>
+</blockquote>
 <p>Diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.</p>
 <p>Diệt mối Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật, thương hiệu diệt mối vận hành trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.</p>
 

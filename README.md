@@ -1,7 +1,7 @@
 # Diệt mối&nbsp;&nbsp;&nbsp;[![Diệt mối](https://dietmoibr.thuongmai.blog/image/pinterest.png "Pinterest")](https://www.pinterest.com/moiphuongnam/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://dietmoibr.thuongmai.blog/image/youtube.png "Youtube")](https://www.youtube.com/@dietmoigianvungtau4923)
 <div style="width: 100%;">
 <div style="max-width: 30%;">
-	<img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"/><em><span>Phun xịt an toàn.</span></br><span>Đào tạo thực tế.</span></br><span>Thiết bị hiện đại.</span></em>
+	<img style="width: 30%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"/><em><span>Phun xịt an toàn.</span></br><span>Đào tạo thực tế.</span></br><span>Thiết bị hiện đại.</span></em>
 </div>
 <div style="max-width: 70%;">
 	<p>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>

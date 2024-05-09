@@ -6,7 +6,8 @@
 	<span>Vũ Văn Tiến (giám đốc)</span></br>
 	<span><a href="https://zalo.me/869202254" title="Diệt mối" target="_blank">84 915-550-788</a> (tư vấn)</span></br>
 	<span>3502 339 313 (mã thuế)</span></br>
-	<span>111E Võ Thi Sáu (trụ sở)</span>
+	<span>111E Võ Thi Sáu (trụ sở)</span></br>
+	<span><a href="mailto:dietmoigianvungtau@gmail.com" title="Diệt mối" target="_blank">Diệt mối rẻ</a> (thư hỏi đáp)</span>
 </blockquote>
 <p>Diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.</p>
 <p>Diệt mối Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật, thương hiệu diệt mối vận hành trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.</p>

@@ -252,4 +252,28 @@
 			<news:keywords>Diệt mối Vũng Tàu, Diet moi Vung Tau</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/xuyenmoc/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-05-09</news:publication_date>
+			<news:title>Diệt mối Xuyên Mộc dịch vụ giá rẻ</news:title>
+			<news:keywords>Diệt mối Xuyên Mộc, Diet moi Xuyen Moc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://dietmoibr.thuongmai.blog/dietmoi/xuyenmoc/diet-moi-xuyen-moc-song-bai-phuoc-thuan-amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>dietmoibr</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-05-09</news:publication_date>
+			<news:title>Diệt mối Xuyên Mộc khách du lịch đến tắm biển Phước Thuận</news:title>
+			<news:keywords>Diệt mối Xuyên Mộc, Diet moi Xuyen Moc</news:keywords>
+		</news:news>
+	</url>
 </urlset>

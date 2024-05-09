@@ -2,7 +2,7 @@
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
 	<td style="width: 50%;"><div style="text-align: center;">
-		<img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"></img><p><span>Có xe cơ động.</span></br><span>Chuyên nghiệp.</span></br><span>Phun xịt an toàn.</span></br><span>Đào tạo thực tế.</span></br><span>Thiết bị hiện đại.</span></p>
+		<img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"></img><p style="text-align: center;"><span>Có xe cơ động.</span></br><span>Chuyên nghiệp.</span></br><span>Phun xịt an toàn.</span></br><span>Đào tạo thực tế.</span></br><span>Thiết bị hiện đại.</span></p>
 	</div></td>
 	<td style="width: 50%;"><div>
 		<p>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>

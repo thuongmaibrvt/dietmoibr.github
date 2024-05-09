@@ -24,18 +24,18 @@
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
 	<td style="width: 50%;"><div>
-		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/6/69/Logo-biet-thu-anh-tinh-long-tam.jpg" alt="diet moi"/>
+		<a rel="bookmark" href="https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-ba-ria-biet-thu-long-tam.html" target="_blank" title="Diệt mối"><img style="width: 99%;" src="https://wiki.thuongmai.blog/images/6/69/Logo-biet-thu-anh-tinh-long-tam.jpg" alt="diet moi"/></a>
 	</div></td>
 	<td style="width: 50%;"><div>
-		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/d/d3/Logo-nha-chi-nghia-phuoc-nguyen.jpg" alt="diet moi"/>
+		<a rel="bookmark" href="https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-ba-ria-nha-lau-phuoc-nguyen.html" target="_blank" title="Diệt mối"><img style="width: 99%;" src="https://wiki.thuongmai.blog/images/d/d3/Logo-nha-chi-nghia-phuoc-nguyen.jpg" alt="diet moi"/></a>
 	</div></td>
 </tr>
 <tr>
 	<td style="width: 50%;"><div>
-		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/a/ad/Logo-san-van-dong-scg-phuoc-hung.jpg" alt="diet moi"/>
+		<a rel="bookmark" href="https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-ba-ria-san-bong-phuoc-hung.html" target="_blank" title="Diệt mối"><img style="width: 99%;" src="https://wiki.thuongmai.blog/images/a/ad/Logo-san-van-dong-scg-phuoc-hung.jpg" alt="diet moi"/></a>
 	</div></td>
 	<td style="width: 50%;"><div>
-		<img style="width: 100%;" src="https://wiki.thuongmai.blog/images/4/47/Logo-nha-go-anh-thien-hoa-long.jpg" alt="diet moi"/>
+		<a rel="bookmark" href="https://dietmoibr.thuongmai.blog/dietmoi/baria/diet-moi-ba-ria-nha-kho-hoa-long.html" target="_blank" title="Diệt mối"><img style="width: 99%;" src="https://wiki.thuongmai.blog/images/4/47/Logo-nha-go-anh-thien-hoa-long.jpg" alt="diet moi"/></a>
 	</div></td>
 </tr>
 </table>

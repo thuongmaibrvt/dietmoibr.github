@@ -1,7 +1,7 @@
 ## Diệt mối&nbsp;&nbsp;&nbsp;[![Diệt mối](https://dietmoibr.thuongmai.blog/image/pinterest.png "Pinterest")](https://www.pinterest.com/moiphuongnam/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://dietmoibr.thuongmai.blog/image/youtube.png "Youtube")](https://www.youtube.com/@dietmoigianvungtau4923)
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
-	<td style="width: 30%;"><div style="text-align: center;">
+	<td style="width: 30%; text-align: center;"><div>
 		<img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"></img><em style="text-align: center;"><span>Có xe cơ động.</span></br><span>Chuyên nghiệp.</span></br><span>Phun xịt an toàn.</span></br><span>Đào tạo thực tế.</span></br><span>Thiết bị hiện đại.</span></em>
 	</div></td>
 	<td style="width: 70%;"><div>

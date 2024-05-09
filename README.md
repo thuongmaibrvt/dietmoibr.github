@@ -8,11 +8,11 @@
 		<img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"/><span>0915.55-07-88 hoặc 0987.22-00-14</span>
 	</div></td>
 	<td style="width: 70%;"><div>
-		<p>Diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.</p>
-		<p>Diệt mối Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật, thương hiệu diệt mối vận hành trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.</p>
 	</div></td>
 </tr>
 </table>
+<p>Diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.</p>
+<p>Diệt mối Phương Nam làm việc 09:00-17:00 trong tuần và 08:00-16:00 chủ nhật, thương hiệu diệt mối vận hành trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.</p>
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 

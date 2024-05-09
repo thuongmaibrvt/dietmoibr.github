@@ -8,7 +8,7 @@
 > Đào tạo thực tế.<br/>
 > Thiết bị hiện đại.
 
-<table style="width: 100%; border: none;">
+<table style="width: 100%; border: none; font-size: 18px;">
 <tr>
 	<td style="width: 49%; border: none;"><img src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png"></img></td>
 	<td style="width: 2%; border: none;"></td>

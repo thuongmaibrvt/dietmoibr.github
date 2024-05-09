@@ -5,9 +5,9 @@
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
 	<td style="width: 25%;"><div>
-		<img style="width: 100%;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png" alt="diet moi"/>
+		[![Diệt mối](https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png "Diệt mối")]
 	</div></td>
-	<td style="width: 75%; max-width: 75%;"><div>
+	<td style="width: 75%;"><div>
 		<span><a href="https://dietmoire.thuongmai.blog/" title="Diệt mối" target="_blank">Cửa hàng</a> thương hiệu</span></br>
 		<span>Vũ Văn Tiến (giám đốc)</span></br>
 		<span><a href="https://zalo.me/869202254" title="Diệt mối" target="_blank">84 915-550-788</a> (tư vấn)</span></br>

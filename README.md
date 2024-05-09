@@ -19,12 +19,12 @@
 ## Diệt mối Bà Rịa&nbsp;&nbsp;&nbsp;[![Diệt mối Bà Rịa](https://dietmoibr.thuongmai.blog/image/pinterest.png "Pinterest")](https://www.pinterest.com/moiphuongnam/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://dietmoibr.thuongmai.blog/image/youtube.png "Youtube")](https://www.youtube.com/@dietmoigianvungtau4923)
 
 <p>Diệt mối Bà Rịa Phương Nam phòng chống bảo vệ biệt thự nhà kho nhà lầu sân bóng Long Tâm Phước Nguyên Phước Hưng Hòa Long tận gốc.</p>
-<blockquote>
+<p>
 	<span>Diệt mối Bà Rịa biệt thự của anh Tình Long Tâm.</span></br>
 	<span>Diệt mối Bà Rịa nhà lầu chị Nghĩa Phước Nguyên.</span></br>
 	<span>Diệt mối Bà Rịa tại sân bóng SCG Phước Hưng.</span></br>
 	<span>Diệt mối Bà Rịa nhà kho của anh Thiên Hòa Long.</span>
-</blockquote>
+</p>
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
 	<td style="width: 50%;"><div>

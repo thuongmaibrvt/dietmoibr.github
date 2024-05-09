@@ -5,7 +5,7 @@
 	<td style="width: 2%; border: none;"></td>
 	<td style="width: 49%; border: none;"><div>
 		<p>Diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, diệt mối giá rẻ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
-		<blockquote>Có xe cơ động. </br>Chuyên nghiệp. </br>Phun xịt an toàn. </br>Đào tạo thực tế. </br>Thiết bị hiện đại.</blockquote>
+		<p><span>Có xe cơ động.</span></br><span>Chuyên nghiệp.</span></br><span>Phun xịt an toàn.</span></br><span>Đào tạo thực tế.</span></br><span>Thiết bị hiện đại.</span></p>
 		<p>Diệt mối phục vụ tại nhà khách nhà nghỉ resort khách sạn khu văn hóa điểm vui chơi điểm du lịch dịch vụ khu nghỉ dưỡng biệt thự nhà hàng sòng bài sân bóng trường học kho xưởng.</p>
 		<p>Diệt mối Phương Nam (giám đốc ông Vũ Văn Tiến) thương hiệu thiết bị hiện đại chuyên nghiệp cơ động an toàn được huấn luyện thực tế uy tín cao.</p>
 		<p>Diệt mối do itvtbadboy phát triển trên ứng dụng github business của bing có giá trị quảng cáo mỗi tháng 3.47 đô cho tên miền dietmoibr.github.</p>

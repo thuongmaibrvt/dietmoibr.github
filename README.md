@@ -3,7 +3,7 @@
 <table style="width: 100%; border: none; font-size: 18px;">
 <tr>
 	<td style="width: 20%;"><div>
-		<img style="width: 312px; height: 312px;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png" alt="diet moi"/>
+		<img style="width: 282px; height: 282px;" src="https://dietmoibr.thuongmai.blog/image/logo-phuong-nam.png" alt="diet moi"/>
 	</div></td>
 	<td style="width: 80%;"><div>
 		<p>Diệt mối toàn quốc Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Việt Nam, dịch vụ toàn quốc bao gồm côn trùng mối ruồi muỗi kiến gián chuột bọ chuyên nghiệp.</p>
